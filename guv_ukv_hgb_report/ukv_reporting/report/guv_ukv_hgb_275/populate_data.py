@@ -2,7 +2,7 @@ import frappe
 frappe.flags.in_test = True
 frappe.in_test = True
 
-from guv_ukv_hgb_report.guv_ukv_hgb_report.report.guv_ukv_hgb_275.tests import test_guv_ukv_hgb_275_data as test_data
+from guv_ukv_hgb_report.ukv_reporting.report.guv_ukv_hgb_275.tests import test_guv_ukv_hgb_275_data as test_data
 
 def resolve_account_by_number(account_str, company):
 	parts = account_str.split(" - ", 1)

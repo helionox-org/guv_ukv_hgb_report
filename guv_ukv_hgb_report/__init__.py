@@ -16,7 +16,7 @@ def patch_pl_statement():
 			if filters:
 				filters = frappe._dict(filters)
 			if filters and filters.get("report_template") == "GuV UKV HGB 275":
-				from guv_ukv_hgb_report.guv_ukv_hgb_report.report.guv_ukv_hgb_275.guv_ukv_hgb_275 import execute as execute_ukv
+				from guv_ukv_hgb_report.ukv_reporting.report.guv_ukv_hgb_275.guv_ukv_hgb_275 import execute as execute_ukv
 				cols, rows, message, chart, report_summary, primitive_summary = execute_ukv(filters)
 				return cols, rows, message, chart, report_summary, primitive_summary
 				

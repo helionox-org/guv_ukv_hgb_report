@@ -12,7 +12,7 @@ except Exception:
 from frappe.utils import today
 from erpnext.accounts.test.accounts_mixin import AccountsTestMixin
 from erpnext.tests.utils import ERPNextTestSuite
-from guv_ukv_hgb_report.guv_ukv_hgb_report.report.guv_ukv_hgb_275.guv_ukv_hgb_275 import execute
+from guv_ukv_hgb_report.ukv_reporting.report.guv_ukv_hgb_275.guv_ukv_hgb_275 import execute
 from . import test_guv_ukv_hgb_275_data as test_data
 
 def resolve_account_by_number(account_str, company):
