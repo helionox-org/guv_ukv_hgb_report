@@ -1,0 +1,5 @@
+erpnext/
+frappe_docker/
+.venv/
+*.pyc
+__pycache__/

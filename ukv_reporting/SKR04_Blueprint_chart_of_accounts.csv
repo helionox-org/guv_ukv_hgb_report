@@ -1,0 +1,1094 @@
+Account Name,Parent Account,Account Number,Parent Account Number,Is Group,Account Type,Root Type,Account Currency
+1 - Umsatzerlöse,,,,1,,Income,EUR
+Erlöse,1 - Umsatzerlöse,4200,,0,Income Account,Income,EUR
+Erlöse 7 % USt,1 - Umsatzerlöse,4300,,0,Income Account,Income,EUR
+Erlöse aus im Inland steuerpfl. EU-Lieferungen 7 % USt,1 - Umsatzerlöse,4310,,0,,Income,EUR
+Erlöse aus im Inland steuerpfl. EU-Lieferungen 19 % USt,1 - Umsatzerlöse,4315,,0,,Income,EUR
+Erlöse aus im anderen EU-Land steuerpfl. Lieferungen,1 - Umsatzerlöse,4320,,0,,Income,EUR
+Erlöse aus im Inland steuerpfl. EU-Lieferungen 16 % USt,1 - Umsatzerlöse,4330,,0,,Income,EUR
+"Erlöse aus Lieferungen von Mobilfunkger./Schaltkr., für die der Leistungsemp für die Ust. schuldet",1 - Umsatzerlöse,4335,,0,,Income,EUR
+"Erlöse aus im anderen EU-Land steuerpfl. sonst. Leistungen, für die der Leistungsemp für die Ust. schuldet",1 - Umsatzerlöse,4336,,0,,Income,EUR
+"Erlöse aus Leistungen, für die der Leistungsemp für die Ust. nach § 13b UStG schuldet",1 - Umsatzerlöse,4337,,0,,Income,EUR
+"Erlöse aus im Drittland steuerbaren Leistungen, im Inland nicht steuerbare Umsätze",1 - Umsatzerlöse,4338,,0,,Income,EUR
+"Erlöse aus im anderen EU-Land steuerbaren Leistungen, im Inland nicht steuerbare Umsätze",1 - Umsatzerlöse,4339,,0,,Income,EUR
+Erlöse 16 % USt,1 - Umsatzerlöse,4340,,0,Income Account,Income,EUR
+Erlöse 19 % USt,1 - Umsatzerlöse,4400,,0,Income Account,Income,EUR
+Erlöse Abfallverwertung,1 - Umsatzerlöse,4510,,0,,Income,EUR
+Erlöse Leergut,1 - Umsatzerlöse,4520,,0,,Income,EUR
+Nicht steuerbare Umsätze (Innenumsätze),1 - Umsatzerlöse,4690,,0,,Income,EUR
+"Umsatzsteuervergütungen, z.B. nach § 24 UStG",1 - Umsatzerlöse,4695,,0,,Income,EUR
+Andere Nebenerlöse,1 - Umsatzerlöse,4833,,0,,Income,EUR
+Erträge aus Verwaltungskostenumlagen,1 - Umsatzerlöse,4992,,0,,Income,EUR
+Erlösschmälerungen (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Erlösschmälerungen,Erlösschmälerungen (Gruppe),4700,,0,,Income,EUR
+Erlösschmälerungen aus steuerfreien Umsätzen § 4 Nr. 1a UStG,Erlösschmälerungen (Gruppe),4705,,0,,Income,EUR
+Erlösschmälerungen 7 % USt,Erlösschmälerungen (Gruppe),4710,,0,,Income,EUR
+Erlösschmälerungen 19 % USt,Erlösschmälerungen (Gruppe),4720,,0,,Income,EUR
+Erlösschmälerungen aus steuerfreien innergem. Lieferungen,Erlösschmälerungen (Gruppe),4724,,0,,Income,EUR
+Erlösschmälerungen aus im Inland steuerpfl. EU-Lieferungen 7 % USt,Erlösschmälerungen (Gruppe),4725,,0,,Income,EUR
+Erlösschmälerungen aus im Inland steuerpfl. EU-Lieferungen 19 % USt,Erlösschmälerungen (Gruppe),4726,,0,,Income,EUR
+Erlösschmälerungen aus im anderen EU-Land steuerpfl. Lieferungen,Erlösschmälerungen (Gruppe),4727,,0,,Income,EUR
+Grundstückserträge (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Grundstückserträge,Grundstückserträge (Gruppe),4860,,0,,Income,EUR
+"Erlöse aus Vermietung und Verpachtung, umsatzsteuerfrei § 4 Nr. 12 UStG",Grundstückserträge (Gruppe),4861,,0,,Income,EUR
+Erlöse aus Vermietung und Verpachtung 19% USt,Grundstückserträge (Gruppe),4862,,0,,Income,EUR
+Provisionsumsätze (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Provisionsumsätze,Provisionsumsätze (Gruppe),4560,,0,,Income,EUR
+"Provisionsumsätze, steuerfrei § 4Nr. 8ff UStG",Provisionsumsätze (Gruppe),4564,,0,,Income,EUR
+"Provisionsumsätze, steuerfrei § 4 Nr. 5 UStG",Provisionsumsätze (Gruppe),4565,,0,,Income,EUR
+Provisionsumsätze 7% USt,Provisionsumsätze (Gruppe),4566,,0,,Income,EUR
+Provisionsumsätze 19 % Ust,Provisionsumsätze (Gruppe),4569,,0,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",1 - Umsatzerlöse,,,1,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten","Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",4570,,0,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten, steuerfrei § 4 Nr. 8ff UStG","Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",4574,,0,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten, steuerfrei § 4 Nr. 5 UStG","Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",4575,,0,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten 7% USt","Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",4576,,0,,Income,EUR
+"Sonstige Erträge aus Provisionen, Lizenzen und Patenten 19% USt","Sonstige Erträge aus Provisionen, Lizenzen und Patenten (Gruppe)",4579,,0,,Income,EUR
+Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Steuerfreie Umsätze § 4 Nr. 8 ff UStG,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4100,,0,,Income,EUR
+Steuerfreie Umsätze nach § 4 Nr. 12 UStG (Vermietung und Verpachtung),Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4105,,0,,Income,EUR
+Sonstige steuerfreie Umsätze Inland,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4110,,0,,Income,EUR
+Steuerfreie Umsätze Offshore etc.,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4140,,0,,Income,EUR
+Sonstige steuerfreie Umsätze (z. B. § 4 Nr. 2-7 UStG),Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4150,,0,,Income,EUR
+Steuerfreie Umsätze ohne Vorsteuerabzug zum Gesamtumsatz gehörend,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4160,,0,,Income,EUR
+"Erlöse, die mit den Durchschnittssätzen des § 24 UStG versteuert werden",Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4180,,0,,Income,EUR
+Erlöse aus Kleinunternehmer i. S. d. § 19 Abs. 1 UStG,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4185,,0,Income Account,Income,EUR
+Erlöse aus Geldspielautomaten 19 % USt,Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),4186,,0,,Income,EUR
+Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),,,1,,Income,EUR
+Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG,Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),4130,,0,,Income,EUR
+Steuerfreie innergem. Lieferungen von Neufahrzeugen an Abnehmer ohne Ust-ID,Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),4135,,0,,Income,EUR
+Umsatzerlöse nach §§ 25 und 25a UStG 19% USt,Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),4136,,0,,Income,EUR
+Umsatzerlöse nach §§ 25 und 25a UStG ohne USt,Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),4138,,0,,Income,EUR
+"Umsatzerlöse aus Reiseleistungen § 25 Abs. 2 UStG, steuerfrei",Lieferungen des ersten Abnehmers bei innergem. Dreiecksgesch.en § 25b Abs. 2 UStG (Gruppe),4139,,0,,Income,EUR
+Steuerfreie Umsätze § 4 Nr. 1a UStG (Gruppe),Steuerfreie Umsätze § 4 Nr. 8 ff UStG (Gruppe),,,1,,Income,EUR
+Steuerfreie Umsätze § 4 Nr. 1a UStG,Steuerfreie Umsätze § 4 Nr. 1a UStG (Gruppe),4120,,0,,Income,EUR
+Steuerfreie Innergemeinschaftliche Lieferungen § 4 Nr. 1b UStG,Steuerfreie Umsätze § 4 Nr. 1a UStG (Gruppe),4125,,0,,Income,EUR
+Gewährte Boni (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Gewährte Boni 7 % USt,Gewährte Boni (Gruppe),4750,,0,,Income,EUR
+Gewährte Boni 19 % USt,Gewährte Boni (Gruppe),4760,,0,,Income,EUR
+Gewährte Boni,Gewährte Boni (Gruppe),4769,,0,,Income,EUR
+Gewährte Rabatte,Gewährte Boni (Gruppe),4770,,0,,Income,EUR
+Gewährte Rabatte 7 % USt,Gewährte Boni (Gruppe),4780,,0,,Income,EUR
+Gewährte Rabatte 19 % USt,Gewährte Boni (Gruppe),4790,,0,,Income,EUR
+Gewährte Skonti (Gruppe),1 - Umsatzerlöse,,,1,,Income,EUR
+Gew. Skonti,Gewährte Skonti (Gruppe),4730,,0,,Income,EUR
+Gew. Skonti 7 % USt,Gewährte Skonti (Gruppe),4731,,0,,Income,EUR
+Gew. Skonti 19 % USt,Gewährte Skonti (Gruppe),4736,,0,,Income,EUR
+"Gew. Skonti aus Lieferungen von Mobilfunkger./Schaltkr., für die der Leistungsemp für die Ust. schuldet",Gewährte Skonti (Gruppe),4738,,0,,Income,EUR
+"Gew. Skonti aus Leistungen, für die der Leistungsemp für die Umsatzsteuer nach § 13b UStG schuldet",Gewährte Skonti (Gruppe),4741,,0,,Income,EUR
+"Gew. Skonti aus Erlösen aus im anderen EU-Land steuerpfl. Leistungen, für die der Leistungsemp für die Ust. schuldet",Gewährte Skonti (Gruppe),4742,,0,,Income,EUR
+Gew. Skonti aus steuerfreien innergem. Lieferungen § 4 Nr. 1b UStG,Gewährte Skonti (Gruppe),4743,,0,,Income,EUR
+Gew. Skonti aus im Inland steuerpfl. EU-Lieferungen,Gewährte Skonti (Gruppe),4745,,0,,Income,EUR
+Gew. Skonti aus im Inland steuerpfl. EU-Lieferungen 7% USt,Gewährte Skonti (Gruppe),4746,,0,,Income,EUR
+Gew. Skonti aus im Inland steuerpfl. EU-Lieferungen 19% USt,Gewährte Skonti (Gruppe),4748,,0,,Income,EUR
+10 - sonstige Zinsen und ähnliche Erträge,,,,1,,Income,EUR
+Sonstige Zinsen und ähnliche Erträge,10 - sonstige Zinsen und ähnliche Erträge,7100,,0,Income Account,Income,EUR
+"Erträge aus Anteilen an Kap.Ges. (Umlaufvermögen, inländische Kap.Ges.)",10 - sonstige Zinsen und ähnliche Erträge,7103,,0,,Income,EUR
+Zinserträge § 233a AO steuerpflichtig,10 - sonstige Zinsen und ähnliche Erträge,7105,,0,,Income,EUR
+"Zinserträge § 233a AO, § 4 Abs. 5b EStG, steuerfrei",10 - sonstige Zinsen und ähnliche Erträge,7107,,0,,Income,EUR
+Sonstige Zinserträge,10 - sonstige Zinsen und ähnliche Erträge,7110,,0,,Income,EUR
+Erträge aus anderen Wertpapieren und Ausleihungen des Umlaufvermögens,10 - sonstige Zinsen und ähnliche Erträge,7115,,0,,Income,EUR
+Zinsähnliche Erträge,10 - sonstige Zinsen und ähnliche Erträge,7120,,0,,Income,EUR
+Diskonterträge,10 - sonstige Zinsen und ähnliche Erträge,7130,,0,,Income,EUR
+Zinserträge aus der Abzinsung von Verbindlichkeiten,10 - sonstige Zinsen und ähnliche Erträge,7141,,0,,Income,EUR
+Zinserträge aus der Abzinsung von Rückstellungen,10 - sonstige Zinsen und ähnliche Erträge,7142,,0,,Income,EUR
+Zinserträge aus der Abzinsung von Pensionsrückstellungen und ähnlichen/vergleichbaren Verpflichtungen,10 - sonstige Zinsen und ähnliche Erträge,7143,,0,,Income,EUR
+Zinserträge aus der Abzinsung von Pensionsrückstellungen und ähnlichen Verpflichtungen zur Verrechnung,10 - sonstige Zinsen und ähnliche Erträge,7144,,0,,Income,EUR
+10 - davon aus verbundenen Unternehmen (Gruppe),10 - sonstige Zinsen und ähnliche Erträge,,,1,,Income,EUR
+Sonstige Zinsen und ähnliche Erträge aus verbundenen Unternehmen,10 - davon aus verbundenen Unternehmen (Gruppe),7109,,0,,Income,EUR
+Sonstige Zinserträge aus verbundenen Unternehmen,10 - davon aus verbundenen Unternehmen (Gruppe),7119,,0,Income Account,Income,EUR
+Zinsähnliche Erträge aus verbundenen Unternehmen,10 - davon aus verbundenen Unternehmen (Gruppe),7129,,0,,Income,EUR
+Diskonterträge aus verbundenen Unternehmen,10 - davon aus verbundenen Unternehmen (Gruppe),7139,,0,,Income,EUR
+11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,,,,1,,Expense,EUR
+Abschreibungen auf Finanzanlagen (dauerhaft),11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,7200,,0,Depreciation,Expense,EUR
+Abschreibungen auf Finanzanlagen (nicht dauerhaft),11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,7201,,0,,Expense,EUR
+"Abschreibungen auf Finanzanlagen § 3 Nr. 40 EStG / § 8b Abs. 3 KStG (inl. Kap.Ges., dauerh.)",11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,7204,,0,,Expense,EUR
+Abschreibungen auf Finanzanlagen – verbundene Unternehmen,11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,7207,,0,,Expense,EUR
+Aufwendungen auf Grund von Verlustanteilen an Mitunternehmerschaften § 8 GewStG,11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,7208,,0,,Expense,EUR
+Abschreibungen auf Wertpapiere des Umlaufvermögens (Gruppe),11 - Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens,,,1,,Expense,EUR
+Abschreibungen auf Wertpapiere des Umlaufvermögens,Abschreibungen auf Wertpapiere des Umlaufvermögens (Gruppe),7210,,0,,Expense,EUR
+Abschreibungen auf Wertpapiere des Umlaufvermögens §3Nr.40EStG/§8bAbs.3KStG (inl. Kap.Ges.),Abschreibungen auf Wertpapiere des Umlaufvermögens (Gruppe),7214,,0,,Expense,EUR
+Abschreibungen auf Wertpapiere des Umlaufvermögens – verbundene Unternehmen,Abschreibungen auf Wertpapiere des Umlaufvermögens (Gruppe),7217,,0,,Expense,EUR
+12 - Zinsen und ähnliche Aufwendungen,,,,1,,Expense,EUR
+Zinsen und ähnliche Aufwendungen,12 - Zinsen und ähnliche Aufwendungen,7300,,0,,Expense,EUR
+Steuerlich nicht abzugsfähige andere Nebenleistungen zu Steuern § 4 Abs. 5b EStG,12 - Zinsen und ähnliche Aufwendungen,7302,,0,,Expense,EUR
+"Steuerlich abzugsfähige, andere Nebenleistungen zu Steuern",12 - Zinsen und ähnliche Aufwendungen,7303,,0,,Expense,EUR
+"Steuerlich nicht abzugsfähige, andere Nebenleistungen zu Steuern",12 - Zinsen und ähnliche Aufwendungen,7304,,0,,Expense,EUR
+Zinsaufwendungen § 233a AO betriebliche Steuern,12 - Zinsen und ähnliche Aufwendungen,7305,,0,,Expense,EUR
+Zinsaufwendungen §§ 233a bis 237 AO Personensteuern,12 - Zinsen und ähnliche Aufwendungen,7306,,0,,Expense,EUR
+"Zinsaufwendungen § 233a AO, § 4 Abs. 5b EStG",12 - Zinsen und ähnliche Aufwendungen,7308,,0,,Expense,EUR
+Zinsaufwendungen für kurzfristige Verbindlichkeiten,12 - Zinsen und ähnliche Aufwendungen,7310,,0,,Expense,EUR
+Nicht abzugsfähige Schuldzinsen gemäß § 4 Abs. 4a EStG (Hinzurechnungsbetrag),12 - Zinsen und ähnliche Aufwendungen,7313,,0,,Expense,EUR
+Zinsen auf Kontokorrentkonten,12 - Zinsen und ähnliche Aufwendungen,7318,,0,,Expense,EUR
+Zinsaufwendungen für langfristige Verbindlichkeiten,12 - Zinsen und ähnliche Aufwendungen,7320,,0,,Expense,EUR
+Abschreibungen auf Disagio/Damnum zur Finanzierung,12 - Zinsen und ähnliche Aufwendungen,7323,,0,,Expense,EUR
+Abschreibungen auf Disagio/Damnum zur Finanzierung des Anlagevermögens,12 - Zinsen und ähnliche Aufwendungen,7324,,0,,Expense,EUR
+"Zinsaufwendungen für Gebäude, die zum Betriebsvermögen gehören",12 - Zinsen und ähnliche Aufwendungen,7325,,0,,Expense,EUR
+Zinsen zur Finanzierung des Anlagevermögens,12 - Zinsen und ähnliche Aufwendungen,7326,,0,,Expense,EUR
+Renten und dauernde Lasten,12 - Zinsen und ähnliche Aufwendungen,7327,,0,,Expense,EUR
+Zinsähnliche Aufwendungen,12 - Zinsen und ähnliche Aufwendungen,7330,,0,,Expense,EUR
+Diskontaufwendungen,12 - Zinsen und ähnliche Aufwendungen,7340,,0,,Expense,EUR
+"Zinsen und ähnlichen Aufwendungen §§3Nr.40,3cEStG/§8bAbs.1KStG (inl. Kap.Ges.)",12 - Zinsen und ähnliche Aufwendungen,7350,,0,,Expense,EUR
+Kreditprovisionen und Verwaltungskostenbeiträge,12 - Zinsen und ähnliche Aufwendungen,7355,,0,,Expense,EUR
+Zinsanteil der Zuführungen zu Pensionsrückstellungen,12 - Zinsen und ähnliche Aufwendungen,7360,,0,,Expense,EUR
+Zinsaufwendungen aus der Abzinsung von Verbindlichkeiten,12 - Zinsen und ähnliche Aufwendungen,7361,,0,,Expense,EUR
+Zinsaufwendungen aus der Abzinsung von Rückstellungen,12 - Zinsen und ähnliche Aufwendungen,7362,,0,,Expense,EUR
+Zinsaufwendungen aus der Abzinsung von Pensionsrückstellungen und ähnlichen Verpflichtungen,12 - Zinsen und ähnliche Aufwendungen,7363,,0,,Expense,EUR
+Zinsaufwendungen aus der Abzinsung von Pensionsrückstellungen und ähnlichen Verpflichtungen zur Verrechnung,12 - Zinsen und ähnliche Aufwendungen,7364,,0,,Expense,EUR
+12 - davon an verbundene Unternehmen (Gruppe),12 - Zinsen und ähnliche Aufwendungen,,,1,,Expense,EUR
+Zinsen und ähnliche Aufwendungen an verb. Unternehmen,12 - davon an verbundene Unternehmen (Gruppe),7309,,0,,Expense,EUR
+Zinsaufwendungen für kurzfistige Verbindlichkeiten an verb. Unternehmen,12 - davon an verbundene Unternehmen (Gruppe),7319,,0,,Expense,EUR
+Zinsaufwendungen für langfristigeVerbindlichkeiten an verb. Unternehmen,12 - davon an verbundene Unternehmen (Gruppe),7329,,0,,Expense,EUR
+Diskontaufwendungen an verb. Unternehmen,12 - davon an verbundene Unternehmen (Gruppe),7349,,0,,Expense,EUR
+Zinsen und ähnliche Aufwendungen an verb. Unternehmen (inl. Kap.Ges.),12 - davon an verbundene Unternehmen (Gruppe),7351,,0,,Expense,EUR
+"12b - Aufwendungen aus Verlustübernahme und a. G. einer Gewinngemeinschaft, eines Gewinnabführungsvertrags abgeführte Gewinne",,,,1,,Expense,EUR
+Aufwendungen aus Verlustübernahme (Mutter) (Gruppe),"12b - Aufwendungen aus Verlustübernahme und a. G. einer Gewinngemeinschaft, eines Gewinnabführungsvertrags abgeführte Gewinne",,,1,,Expense,EUR
+Aufwendungen aus Verlustübernahme,Aufwendungen aus Verlustübernahme (Mutter) (Gruppe),7390,,0,,Expense,EUR
+13 - Steuern vom Einkommen und vom Ertrag,,,,1,,Expense,EUR
+Körperschaftsteuer,13 - Steuern vom Einkommen und vom Ertrag,7600,,0,Tax,Expense,EUR
+Gewerbesteuer,13 - Steuern vom Einkommen und vom Ertrag,7610,,0,Tax,Expense,EUR
+Kapitalertragsteuer 25 %,13 - Steuern vom Einkommen und vom Ertrag,7630,,0,,Expense,EUR
+Anrechenbarer Solidaritätszuschlag auf Kapitalertragsteuer 25 %,13 - Steuern vom Einkommen und vom Ertrag,7633,,0,,Expense,EUR
+Anzurechnende ausländische Quellensteuer,13 - Steuern vom Einkommen und vom Ertrag,7639,,0,,Expense,EUR
+Gewerbesteuernachzahlungen Vorjahre,13 - Steuern vom Einkommen und vom Ertrag,7640,,0,,Expense,EUR
+"Gewerbesteuernachzahlungen und Gewerbesteuererstattungen für Vorjahre, § 4 Abs. 5b EStG",13 - Steuern vom Einkommen und vom Ertrag,7641,,0,,Expense,EUR
+Gewerbesteuererstattungen Vorjahre,13 - Steuern vom Einkommen und vom Ertrag,7642,,0,,Expense,EUR
+"Erträge aus der Auflösung von Gewerbesteuerrückstellungen, § 4 Abs. 5b EStG",13 - Steuern vom Einkommen und vom Ertrag,7643,,0,,Expense,EUR
+Erträge aus der Auflösung von Gewerbesteuerrückstellungen,13 - Steuern vom Einkommen und vom Ertrag,7644,,0,,Expense,EUR
+Aufwendungen aus der Zuführung und Auflösung von latenten Steuern,13 - Steuern vom Einkommen und vom Ertrag,7645,,0,,Expense,EUR
+Erträge aus der Zuführung und Auflösung von latenten Steuern,13 - Steuern vom Einkommen und vom Ertrag,7649,,0,,Expense,EUR
+15 - sonstige Steuern,,,,1,,Expense,EUR
+Verbrauchsteuer,15 - sonstige Steuern,7675,,0,,Expense,EUR
+Ökosteuer,15 - sonstige Steuern,7678,,0,,Expense,EUR
+Grundsteuer,15 - sonstige Steuern,7680,,0,,Expense,EUR
+Kfz-Steuer,15 - sonstige Steuern,7685,,0,,Expense,EUR
+Steuernachzahlungen Vorjahre für sonstige Steuern,15 - sonstige Steuern,7690,,0,,Expense,EUR
+Steuererstattungen Vorjahre für sonstige Steuern,15 - sonstige Steuern,7692,,0,,Expense,EUR
+Erträge aus der Auflösung von Rückstellungen für sonstige Steuern,15 - sonstige Steuern,7694,,0,,Expense,EUR
+"15b - Auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne",,,,1,,Expense,EUR
+Abgeführte Gewinne auf Grund einer Gewinngemeinschaft,"15b - Auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne",7392,,0,,Expense,EUR
+Abgeführte Gewinne auf Grund eines Gewinn- oder Teilgewinnabführungsvertrags,"15b - Auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne",7394,,0,,Expense,EUR
+15b - Erträge aus Verlustübernahme,,,,1,,Income,EUR
+Erträge aus Verlustübernahme,15b - Erträge aus Verlustübernahme,7190,,0,,Income,EUR
+2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,,1,,Expense,EUR
+"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren","Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",5000,,0,Expense Account,Expense,EUR
+innergem. Erwerb 7% Vorst. u. 7% Ust.,Wareneingang (Gruppe),5420,,0,,Expense,EUR
+innergem. Erwerb 19 % Vorsteuer 19 % Umsatzsteuer,Wareneingang (Gruppe),5425,,0,,Expense,EUR
+innergem. Erwerb ohne Vorst. und 7% Ust.,Wareneingang (Gruppe),5430,,0,,Expense,EUR
+innergem. Erwerb ohne Vorsteuer und 19 % Umsatzsteuer,Wareneingang (Gruppe),5435,,0,,Expense,EUR
+innergem. Erwerb von Neufahrzeugen von Lieferanten ohne Ust-ID 19 % Vorst. und 19 % Ust.,Wareneingang (Gruppe),5440,,0,,Expense,EUR
+Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Kaufleasing,Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),6250,,0,,Expense,EUR
+Sofortabschreibung geringwertiger Wirtschaftsgüter,Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),6260,,0,Depreciation,Expense,EUR
+"Abschreibungen auf aktivierte, geringwertige Wirtschaftsgüter",Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),6262,,0,,Expense,EUR
+Abschreibungen auf den Sammelposten Wirtschaftsgüter,Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),6264,,0,,Expense,EUR
+"Außerplanmäßige Abschreibungen auf aktivierte, geringwertige Wirtschaftsgüter",Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),6266,,0,,Expense,EUR
+Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),,,1,,Expense,EUR
+Abschreibungen auf immaterielle Vermögensgegenstände,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6200,,0,Depreciation,Expense,EUR
+Abschreibungen auf selbst geschaffene immaterielle Vermögensgegenstände,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6201,,0,,Expense,EUR
+Abschreibungen auf den Geschäfts- oder Firmenwert,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6205,,0,,Expense,EUR
+Außerplanmäßige Abschreibungen auf den Geschäfts- oder Firmenwert,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6209,,0,,Expense,EUR
+Außerplanmäßige Abschreibungen auf immaterielle Vermögensgegenstände,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6210,,0,,Expense,EUR
+Außerplanmäßige Abschreibungen auf selbst geschaffene immaterielle Vermögensgegenstände,Abschreibungen auf immaterielle Vermögensgegenstände (Gruppe),6211,,0,,Expense,EUR
+Abschreibungen auf Sachanlagen (Gruppe),Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),,,1,,Expense,EUR
+Abschreibungen auf Sachanlagen (ohne AfA auf Kfz und Gebäude),Abschreibungen auf Sachanlagen (Gruppe),6220,,0,Depreciation,Expense,EUR
+Abschreibungen auf Gebäude,Abschreibungen auf Sachanlagen (Gruppe),6221,,0,Depreciation,Expense,EUR
+Abschreibungen auf Kfz,Abschreibungen auf Sachanlagen (Gruppe),6222,,0,Depreciation,Expense,EUR
+Abschreibungen auf Gebäudeanteil des häuslichen Arbeitszimmers,Abschreibungen auf Sachanlagen (Gruppe),6223,,0,,Expense,EUR
+Abschreibungen auf Sachanlagen auf Grund steuerlicher Sondervorschriften (Gruppe),Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),,,1,,Expense,EUR
+"Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Abschreibungen auf sonstige Vermögensgegenstände des Umlaufvermögens (soweit unübliche Höhe),"Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",6270,,0,,Expense,EUR
+"Abschreibungen auf Roh-, Hilfs- und Betriebsstoffe/Waren (soweit unüblich hoch)","Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",6278,,0,,Expense,EUR
+Abschreibungen auf fertige und unfertige Erzeugnisse (soweit unüblich hoch),"Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",6279,,0,,Expense,EUR
+"Abschreibungen auf Forderungen gg. Kapitalges., an denen eine Beteiligung besteht (soweit unüblich hoch)","Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",6290,,0,,Expense,EUR
+"Forderungsverluste, unüblich hoch (Gruppe)","Abschreibung auf Vermögensgegenstände des Umlaufvermögens, soweit diese die üblichen Abschreibungen überschreiten (Gruppe)",,,1,,Expense,EUR
+"Forderungsverluste, unüblich hoch","Forderungsverluste, unüblich hoch (Gruppe)",6280,,0,,Expense,EUR
+Forderungsverluste 7% USt (soweit unüblich hoch),"Forderungsverluste, unüblich hoch (Gruppe)",6281,,0,,Expense,EUR
+Forderungsverluste 16% USt (soweit unüblich hoch),"Forderungsverluste, unüblich hoch (Gruppe)",6285,,0,,Expense,EUR
+Forderungsverluste 19% USt (soweit unüblich hoch),"Forderungsverluste, unüblich hoch (Gruppe)",6286,,0,,Expense,EUR
+Forderungsverluste 15% USt (soweit unüblich hoch),"Forderungsverluste, unüblich hoch (Gruppe)",6287,,0,,Expense,EUR
+Außerplanmäßige Abschreibungen auf Sachanlagen (Gruppe),Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen (Gruppe),,,1,,Expense,EUR
+Außerplanmäßige Abschreibungen auf Sachanlagen,Außerplanmäßige Abschreibungen auf Sachanlagen (Gruppe),6230,,0,,Expense,EUR
+Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung der Gebäude,Außerplanmäßige Abschreibungen auf Sachanlagen (Gruppe),6231,,0,,Expense,EUR
+Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung des Kfz,Außerplanmäßige Abschreibungen auf Sachanlagen (Gruppe),6232,,0,,Expense,EUR
+Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung sonstiger Wirtschaftsgüter,Außerplanmäßige Abschreibungen auf Sachanlagen (Gruppe),6233,,0,,Expense,EUR
+Bezugsnebenkosten (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Bezugsnebenkosten,Bezugsnebenkosten (Gruppe),5800,,0,,Expense,EUR
+Leergut,Bezugsnebenkosten (Gruppe),5820,,0,,Expense,EUR
+Zölle und Einfuhrabgaben,Bezugsnebenkosten (Gruppe),5840,,0,,Expense,EUR
+Verrechnete Stoffkosten (Gegenkonto 5000-99) oder (4000-99),Bezugsnebenkosten (Gruppe),5860,,0,,Expense,EUR
+Materialaufwand (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe",Materialaufwand (Gruppe),5100,,0,Expense Account,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe 7% Vorsteuer",Materialaufwand (Gruppe),5110,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe 19% Vorsteuer",Materialaufwand (Gruppe),5130,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb 7% Vorst. u. 7% Ust.",Materialaufwand (Gruppe),5160,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb 19% Vorst. u. 19% Ust.",Materialaufwand (Gruppe),5162,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb ohne Vorsteuer und 7% Umsatzsteuer",Materialaufwand (Gruppe),5166,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb ohne Vorsteuer und 19% Umsatzsteuer",Materialaufwand (Gruppe),5167,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe 5,5% Vorsteuer",Materialaufwand (Gruppe),5170,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe 10,7% Vorsteuer",Materialaufwand (Gruppe),5171,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe aus einem USt-Lager § 13a UStG 7% Vorst. und 7% Ust.",Materialaufwand (Gruppe),5175,,0,,Expense,EUR
+"Einkauf Roh-, Hilfs- und Betriebsstoffe aus einem USt-Lager § 13a UStG 19% Vorst. und 19% Ust.",Materialaufwand (Gruppe),5176,,0,,Expense,EUR
+"Erwerb Roh-, Hilfs- und Betriebsstoffe als letzter Abnehmer innerh. Dreiecksgesch. 19% Vorst. und 19% Ust.",Materialaufwand (Gruppe),5189,,0,,Expense,EUR
+Energiestoffe (Fertigung) (Gruppe),Materialaufwand (Gruppe),,,1,,Expense,EUR
+Energiestoffe (Fertigung),Energiestoffe (Fertigung) (Gruppe),5190,,0,,Expense,EUR
+Energiestoffe (Fertigung) 7% Vorsteuer,Energiestoffe (Fertigung) (Gruppe),5191,,0,,Expense,EUR
+Energiestoffe (Fertigung) 19% Vorsteuer,Energiestoffe (Fertigung) (Gruppe),5192,,0,,Expense,EUR
+Erhaltene Skonti (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Erhaltene Skonti,Erhaltene Skonti (Gruppe),5730,,0,,Expense,EUR
+Erhaltene Skonti 7 % Vorsteuer,Erhaltene Skonti (Gruppe),5731,,0,,Expense,EUR
+"Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe",Erhaltene Skonti (Gruppe),5733,,0,,Expense,EUR
+"Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7% Vorsteuer",Erhaltene Skonti (Gruppe),5734,,0,,Expense,EUR
+Erhaltene Skonti 19 % Vorsteuer,Erhaltene Skonti (Gruppe),5736,,0,,Expense,EUR
+"Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19% Vorsteuer",Erhaltene Skonti (Gruppe),5738,,0,,Expense,EUR
+"Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe aus steuerpfl. innergem. Erwerb 19% Vorst. u. 19% Ust.",Erhaltene Skonti (Gruppe),5741,,0,,Expense,EUR
+"Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe aus steuerpfl. innergem. Erwerb 7% Vorst. u. 7% Ust.",Erhaltene Skonti (Gruppe),5743,,0,,Expense,EUR
+Erhaltene Skonti aus steuerpflichtigem innergem. Erwerb,Erhaltene Skonti (Gruppe),5745,,0,,Expense,EUR
+Erhaltene Skonti aus steuerpflichtigem innergem. Erwerb 7% Vorst. u. 7% Ust.,Erhaltene Skonti (Gruppe),5746,,0,,Expense,EUR
+Erhaltene Skonti aus steuerpflichtigem innergem. Erwerb 19% Vorst. u. 19% Ust.,Erhaltene Skonti (Gruppe),5748,,0,,Expense,EUR
+"Erhaltene Skonti aus Erwerb Roh-,Hilfs-,Betriebsstoff letzter Abn.innerh.Dreiecksg. 19% Vorst. und 19% Ust.",Erhaltene Skonti (Gruppe),5792,,0,,Expense,EUR
+Erhaltene Skonti aus Erwerb Waren als letzter Abnehmer innerh. Dreiecksgesch. 19% Vorst. u. 19% Ust.,Erhaltene Skonti (Gruppe),5793,,0,,Expense,EUR
+Aufwendungen für bezogene Leistungen (Gruppe),2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Fremdleistungen (Gruppe),Aufwendungen für bezogene Leistungen (Gruppe),,,1,,Expense,EUR
+Fremdleistungen,Fremdleistungen (Gruppe),5900,,0,Expense Account,Expense,EUR
+Fremdleistungen 19% Vorsteuer,Fremdleistungen (Gruppe),5906,,0,,Expense,EUR
+Fremdleistungen ohne Vorsteuer,Fremdleistungen (Gruppe),5909,,0,,Expense,EUR
+"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",Aufwendungen für bezogene Leistungen (Gruppe),,,1,,Expense,EUR
+Bauleistungen eines im Inland ansässigen Unternehmers 7% Vorst. u. 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5910,,0,,Expense,EUR
+Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers 7% Vorst. u. 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5913,,0,,Expense,EUR
+Leistungen eines im Ausland ansässigen Unternehmers 7% Vorst. u. 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5915,,0,,Expense,EUR
+Bauleistungen eines im Inland ansässigen Unternehmers 19% Vorst. u. 19% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5920,,0,,Expense,EUR
+Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers 19% Vorst. u. 19% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5923,,0,,Expense,EUR
+Leistungen eines im Ausland ansässigen Unternehmers 19% Vorst. u. 19% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5925,,0,,Expense,EUR
+Bauleistungen eines im Inland ansässigen Unternehmers ohne Vorst. und 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5930,,0,,Expense,EUR
+Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers ohne Vorst. und 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5933,,0,,Expense,EUR
+Leistungen eines im Ausland ansässigen Unternehmers ohne Vorst. und 7% Ust.,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5935,,0,,Expense,EUR
+Bauleistungen eines im Inland ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5940,,0,,Expense,EUR
+Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5943,,0,,Expense,EUR
+Leistungen eines im Ausland ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5945,,0,,Expense,EUR
+Leistungen nach § 13b UStG mit Vorsteuerabzug,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5960,,0,,Expense,EUR
+Leistungen nach § 13b UStG ohne Vorsteuerabzug,"Umsätze, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird (Gruppe)",5965,,0,,Expense,EUR
+"Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird (Gruppe)",Aufwendungen für bezogene Leistungen (Gruppe),,,1,,Expense,EUR
+"Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer nach § 13b UStG geschuldet wird","Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird (Gruppe)",5950,,0,,Expense,EUR
+"Erhaltene Skonti aus Leistungen,für die als Leistungsemp für die Steuer geschuldet wird 19 % Vorst. und 19 % Ust.","Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird (Gruppe)",5951,,0,,Expense,EUR
+"Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird ohne Vorst. aber mit Uts.","Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird (Gruppe)",5953,,0,,Expense,EUR
+"Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird ohne Vorst., mit 19 % Ust.","Erhaltene Skonti aus Leistungen, für die als Leistungsemp für die Steuer geschuldet wird (Gruppe)",5954,,0,,Expense,EUR
+Herstellungskosten: Schwund,2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,0,Stock Adjustment,Expense,EUR
+Löhne und Gehälter (Gruppe),2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Löhne und Gehälter,Löhne und Gehälter (Gruppe),6000,,0,Expense Account,Expense,EUR
+Löhne,Löhne und Gehälter (Gruppe),6010,,0,,Expense,EUR
+Gehälter,Löhne und Gehälter (Gruppe),6020,,0,,Expense,EUR
+Tantiemen,Löhne und Gehälter (Gruppe),6026,,0,,Expense,EUR
+Aushilfslöhne,Löhne und Gehälter (Gruppe),6030,,0,,Expense,EUR
+Löhne für Minijobs,Löhne und Gehälter (Gruppe),6035,,0,,Expense,EUR
+Pauschale Steuern und Abgaben für Sachzuwendungen und Dienstleistungen an Arbeitnehmer,Löhne und Gehälter (Gruppe),6039,,0,,Expense,EUR
+Pauschale Steuer für Aushilfen,Löhne und Gehälter (Gruppe),6040,,0,,Expense,EUR
+Bedienungsgelder,Löhne und Gehälter (Gruppe),6045,,0,,Expense,EUR
+Ehegattengehalt,Löhne und Gehälter (Gruppe),6050,,0,,Expense,EUR
+Freiwillige soziale Aufwendungen lohnsteuerpflichtig,Löhne und Gehälter (Gruppe),6060,,0,,Expense,EUR
+Pauschale Steuer auf sonstige Bezüge (z. B. Fahrtkostenzuschüsse),Löhne und Gehälter (Gruppe),6069,,0,,Expense,EUR
+Krankengeldzuschüsse,Löhne und Gehälter (Gruppe),6070,,0,,Expense,EUR
+Sachzuwendungen und Dienstleistungen an Arbeitnehmer,Löhne und Gehälter (Gruppe),6072,,0,,Expense,EUR
+Zuschüsse der Agenturen für Arbeit (Haben),Löhne und Gehälter (Gruppe),6075,,0,,Expense,EUR
+Vermögenswirksame Leistungen,Löhne und Gehälter (Gruppe),6080,,0,,Expense,EUR
+Fahrtkostenerstattung - Wohnung/Arbeitsstätte,Löhne und Gehälter (Gruppe),6090,,0,,Expense,EUR
+Nachlässe (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Nachlässe,Nachlässe (Gruppe),5700,,0,,Expense,EUR
+"Nachlässe aus Einkauf Roh-, Hilfs- und Betriebsstoffe",Nachlässe (Gruppe),5701,,0,,Expense,EUR
+Nachlässe 7 % Vorsteuer,Nachlässe (Gruppe),5710,,0,,Expense,EUR
+"Nachlässe aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7% Vorsteuer",Nachlässe (Gruppe),5714,,0,,Expense,EUR
+"Nachlässe aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19% Vorsteuer",Nachlässe (Gruppe),5715,,0,,Expense,EUR
+"Nachlässe aus Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb 7% Vorst. u. 7% Ust.",Nachlässe (Gruppe),5717,,0,,Expense,EUR
+"Nachlässe aus Einkauf Roh-, Hilfs- und Betriebsstoffe, innergem. Erwerb 19% Vorst. u. 19% Ust.",Nachlässe (Gruppe),5718,,0,,Expense,EUR
+Nachlässe 19 % Vorsteuer,Nachlässe (Gruppe),5720,,0,,Expense,EUR
+Nachlässe aus innergem. Erwerb 7% Vorst. u. 7% Ust.,Nachlässe (Gruppe),5724,,0,,Expense,EUR
+Nachlässe aus innergem. Erwerb 19% Vorst. u. 19% Ust.,Nachlässe (Gruppe),5725,,0,,Expense,EUR
+Nicht abziehbare Vorsteuer (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Nicht abziehbare Vorsteuer,Nicht abziehbare Vorsteuer (Gruppe),5600,,0,,Expense,EUR
+Nicht abziehbare Vorsteuer 19 % (Gruppe),Nicht abziehbare Vorsteuer (Gruppe),,,1,,Expense,EUR
+Nicht abziehbare Vorsteuer 19 %,Nicht abziehbare Vorsteuer 19 % (Gruppe),5660,,0,,Expense,EUR
+Nicht abziehbare Vorsteuer 7 % (Gruppe),Nicht abziehbare Vorsteuer (Gruppe),,,1,,Expense,EUR
+Nicht abziehbare Vorsteuer 7 %,Nicht abziehbare Vorsteuer 7 % (Gruppe),5610,,0,,Expense,EUR
+Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6100,,0,Expense Account,Expense,EUR
+Gesetzliche soziale Aufwendungen,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6110,,0,Expense Account,Expense,EUR
+Beiträge zur Berufsgenossenschaft,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6120,,0,Expense Account,Expense,EUR
+Freiwillige soziale Aufwendungen lohnsteuerfrei,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6130,,0,,Expense,EUR
+Versorgungskassen,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6150,,0,,Expense,EUR
+Aufwendungen für Unterstützung,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6160,,0,,Expense,EUR
+Sonstige soziale Abgaben,Soziale Abgaben und Aufwendungen für  Altersvers. und für Unterstützung (Gruppe),6170,,0,,Expense,EUR
+Wareneingang (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Wareneingang,Wareneingang (Gruppe),5200,,0,,Expense,EUR
+Wareneingang 7 % Vorsteuer,Wareneingang (Gruppe),5300,,0,,Expense,EUR
+Wareneingang 19 % Vorsteuer,Wareneingang (Gruppe),5400,,0,,Expense,EUR
+"Wareneingang 5,5 % Vorsteuer",Wareneingang (Gruppe),5505,,0,,Expense,EUR
+"Wareneingang zum Durchschnittssatz nach § 24 UStG
+7,8 % Vorsteuer",Wareneingang (Gruppe),5540,,0,,Expense,EUR
+Steuerfreier innergem. Erwerb,Wareneingang (Gruppe),5550,,0,,Expense,EUR
+Wareneingang im Drittland steuerbar,Wareneingang (Gruppe),5551,,0,,Expense,EUR
+Erwerb 1. Abnehmer innerh. eines Dreieckgeschäftes,Wareneingang (Gruppe),5552,,0,,Expense,EUR
+Erwerb Waren als letzter Abnehmer innerh. Dreiecksgesch. 19% Vorst. u. 19% Ust.,Wareneingang (Gruppe),5553,,0,,Expense,EUR
+Wareneingang im anderen EU-Land steuerbar,Wareneingang (Gruppe),5558,,0,,Expense,EUR
+Steuerfreie Einfuhren,Wareneingang (Gruppe),5559,,0,,Expense,EUR
+"Waren aus einem Umsatzsteuerlager, § 13a UStG 7% Vorst. u. 7% Ust.",Wareneingang (Gruppe),5560,,0,,Expense,EUR
+"Waren aus einem Umsatzsteuerlager, § 13a UStG 19% Vorst. u. 19% Ust.",Wareneingang (Gruppe),5565,,0,,Expense,EUR
+Erhaltene Boni (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Erhaltene Boni 7 % Vorsteuer,Erhaltene Boni (Gruppe),5750,,0,,Expense,EUR
+"Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe",Erhaltene Boni (Gruppe),5753,,0,,Expense,EUR
+"Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7% Vorsteuer",Erhaltene Boni (Gruppe),5754,,0,,Expense,EUR
+"Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19% Vorsteuer",Erhaltene Boni (Gruppe),5755,,0,,Expense,EUR
+Erhaltene Boni 19 % Vorsteuer,Erhaltene Boni (Gruppe),5760,,0,,Expense,EUR
+Erhaltene Boni,Erhaltene Boni (Gruppe),5769,,0,,Expense,EUR
+Erhaltene Rabatte (Gruppe),"Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Gruppe)",,,1,,Expense,EUR
+Erhaltene Rabatte,Erhaltene Rabatte (Gruppe),5770,,0,,Expense,EUR
+Erhaltene Rabatte 7 % Vorsteuer,Erhaltene Rabatte (Gruppe),5780,,0,,Expense,EUR
+"Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe",Erhaltene Rabatte (Gruppe),5783,,0,,Expense,EUR
+"Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7% Vorsteuer",Erhaltene Rabatte (Gruppe),5784,,0,,Expense,EUR
+"Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19% Vorsteuer",Erhaltene Rabatte (Gruppe),5785,,0,,Expense,EUR
+Erhaltene Rabatte 19 % Vorsteuer,Erhaltene Rabatte (Gruppe),5790,,0,,Expense,EUR
+Sonstige Kosten (Gruppe),2 - Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen,,,1,,Expense,EUR
+Sonstige betriebliche Aufwendungen,Sonstige Kosten (Gruppe),6300,,0,,Expense,EUR
+Interimskonto für Aufw. in einem anderen Land (Vorst.verg. möglich),Sonstige Kosten (Gruppe),6302,,0,,Expense,EUR
+Fremdleistungen/Fremdarbeiten,Sonstige Kosten (Gruppe),6303,,0,,Expense,EUR
+Raumkosten,Sonstige Kosten (Gruppe),6305,,0,,Expense,EUR
+Miete (unbewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6310,,0,,Expense,EUR
+Miete/Aufwendungen für doppelte Haushaltsführung,Sonstige Kosten (Gruppe),6312,,0,,Expense,EUR
+Pacht (unbewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6315,,0,,Expense,EUR
+Leasing (unbewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6316,,0,,Expense,EUR
+"Aufwendungen für gemietete oder gepachtete unbewegliche Wirtschaftsg., die GewSt hinzuzurechnen sind",Sonstige Kosten (Gruppe),6317,,0,,Expense,EUR
+Miet- und Pachtnebenkosten (GewSt nicht zu berücksichtigen),Sonstige Kosten (Gruppe),6318,,0,,Expense,EUR
+Heizung,Sonstige Kosten (Gruppe),6320,,0,,Expense,EUR
+"Gas, Strom, Wasser",Sonstige Kosten (Gruppe),6325,,0,,Expense,EUR
+Reinigung,Sonstige Kosten (Gruppe),6330,,0,,Expense,EUR
+Instandhaltung betrieblicher Räume,Sonstige Kosten (Gruppe),6335,,0,,Expense,EUR
+Abgaben für betrieblich genutzten Grundbesitz,Sonstige Kosten (Gruppe),6340,,0,,Expense,EUR
+Sonstige Raumkosten,Sonstige Kosten (Gruppe),6345,,0,,Expense,EUR
+Aufwendungen für ein häusliches Arbeitszimmer (abziehbarer Anteil),Sonstige Kosten (Gruppe),6348,,0,,Expense,EUR
+Aufwendungen für ein häusliches Arbeitszimmer (nicht abziehbarer Anteil),Sonstige Kosten (Gruppe),6349,,0,,Expense,EUR
+Grundstücksaufwendungen betrieblich,Sonstige Kosten (Gruppe),6350,,0,,Expense,EUR
+Grundstücksaufwendungen neutral,Sonstige Kosten (Gruppe),6352,,0,,Expense,EUR
+Versicherungen,Sonstige Kosten (Gruppe),6400,,0,,Expense,EUR
+"Versicherungen für Gebäude, die zum Betriebsvermögen gehören",Sonstige Kosten (Gruppe),6405,,0,,Expense,EUR
+Netto-Prämie für Rückdeckung künftiger Versorgungsleistungen,Sonstige Kosten (Gruppe),6410,,0,,Expense,EUR
+Beiträge,Sonstige Kosten (Gruppe),6420,,0,,Expense,EUR
+Sonstige Abgaben,Sonstige Kosten (Gruppe),6430,,0,,Expense,EUR
+Steuerlich abzugsfähige Verspätungszuschläge und Zwangsgelder,Sonstige Kosten (Gruppe),6436,,0,,Expense,EUR
+Steuerlich nicht abzugsfähige Verspätungszuschläge und Zwangsgelder,Sonstige Kosten (Gruppe),6437,,0,,Expense,EUR
+Ausgleichsabgabe i. S. d. Schwerbehindertengesetzes,Sonstige Kosten (Gruppe),6440,,0,,Expense,EUR
+Reparaturen und Instandhaltung von Bauten,Sonstige Kosten (Gruppe),6450,,0,,Expense,EUR
+Reparaturen und Instandhaltung von technischenAnlagen und Maschinen,Sonstige Kosten (Gruppe),6460,,0,,Expense,EUR
+Reparaturen und Instandhaltung von anderen Anlagen und Betriebs- und Geschäftsausstattung,Sonstige Kosten (Gruppe),6470,,0,,Expense,EUR
+Zuführung zu Aufwandsrückstellungen,Sonstige Kosten (Gruppe),6475,,0,,Expense,EUR
+Reparaturen und Instandhaltung von anderen Anlagen,Sonstige Kosten (Gruppe),6485,,0,,Expense,EUR
+Sonstige Reparaturen und Instandhaltungen,Sonstige Kosten (Gruppe),6490,,0,,Expense,EUR
+Wartungskosten für Hard- und Software,Sonstige Kosten (Gruppe),6495,,0,,Expense,EUR
+Mietleasing (bewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6498,,0,,Expense,EUR
+Porto,Sonstige Kosten (Gruppe),6800,,0,,Expense,EUR
+Telefon,Sonstige Kosten (Gruppe),6805,,0,,Expense,EUR
+Telefax und Internetkosten,Sonstige Kosten (Gruppe),6810,,0,,Expense,EUR
+Bürobedarf,Sonstige Kosten (Gruppe),6815,,0,,Expense,EUR
+"Zeitschriften, Bücher",Sonstige Kosten (Gruppe),6820,,0,,Expense,EUR
+Fortbildungskosten,Sonstige Kosten (Gruppe),6821,,0,,Expense,EUR
+Freiwillige Sozialleistungen,Sonstige Kosten (Gruppe),6822,,0,,Expense,EUR
+Rechts- und Beratungskosten,Sonstige Kosten (Gruppe),6825,,0,,Expense,EUR
+Abschluss- und Prüfungskosten,Sonstige Kosten (Gruppe),6827,,0,,Expense,EUR
+Buchführungskosten,Sonstige Kosten (Gruppe),6830,,0,,Expense,EUR
+Mieten für Einrichtungen (bewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6835,,0,,Expense,EUR
+Pacht (bewegliche Wirtschaftsgüter),Sonstige Kosten (Gruppe),6836,,0,,Expense,EUR
+"Aufwendungen für die zeitlich befristete Überlassung von Rechten (Lizenzen, Konzessionen)",Sonstige Kosten (Gruppe),6837,,0,,Expense,EUR
+"Aufwendungen für gemietete oder gepachtete bewegliche Wirtschaftsg., die gewerbest. hinzuzurechnen sind",Sonstige Kosten (Gruppe),6838,,0,,Expense,EUR
+Werkzeuge und Kleingeräte,Sonstige Kosten (Gruppe),6845,,0,,Expense,EUR
+Betriebsbedarf,Sonstige Kosten (Gruppe),6850,,0,,Expense,EUR
+Nebenkosten des Geldverkehrs,Sonstige Kosten (Gruppe),6855,,0,,Expense,EUR
+Aufwendungen aus Anteilen an Kapitalgesellschaften §§ 3 Nr. 40 und 3c EStG bzw. § 8b Abs. 1 und 4 KstG,Sonstige Kosten (Gruppe),6856,,0,,Expense,EUR
+Veräußerungskosten § 3 Nr. 40 EStG/§ 8b Abs. 2 KStG (inl. Kap.Ges.),Sonstige Kosten (Gruppe),6857,,0,,Expense,EUR
+Aufwendungen für Abraum- und Abfallbeseitigung,Sonstige Kosten (Gruppe),6859,,0,,Expense,EUR
+Nicht abziehbare Vorsteuer 19 %,Sonstige Kosten (Gruppe),6871,,0,,Expense,EUR
+Aufwendungen aus der Währungsumrechnung,Sonstige Kosten (Gruppe),6880,,0,,Expense,EUR
+Aufwendungen aus Bewertung Finanzmittelfonds,Sonstige Kosten (Gruppe),6883,,0,,Expense,EUR
+Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1a UStG (bei Buchverlust),Sonstige Kosten (Gruppe),6884,,0,,Expense,EUR
+Erlöse aus Verkäufen Sachanlagevermögen 19 % USt (bei Buchverlust),Sonstige Kosten (Gruppe),6885,,0,,Expense,EUR
+Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1b UStG (bei Buchverlust),Sonstige Kosten (Gruppe),6888,,0,,Expense,EUR
+Erlöse aus Verkäufen Sachanlagevermögen (bei Buchverlust),Sonstige Kosten (Gruppe),6889,,0,,Expense,EUR
+Erlöse aus Verkäufen immaterieller Vermögensgegenstände (bei Buchverlust),Sonstige Kosten (Gruppe),6890,,0,,Expense,EUR
+Erlöse aus Verkäufen Finanzanlagen (bei Buchverlust),Sonstige Kosten (Gruppe),6891,,0,,Expense,EUR
+Erlöse aus Verkäufen Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG i. V. m. § 8b Abs. 3 S. 3 KStG (bei Buchverlust),Sonstige Kosten (Gruppe),6892,,0,,Expense,EUR
+Anlagenabgänge Sachanlagen (Restbuchwert bei Buchverlust),Sonstige Kosten (Gruppe),6895,,0,,Expense,EUR
+Anlagenabgänge immaterielle Vermögensgegenstände (Restbuchwert bei Buchverlust),Sonstige Kosten (Gruppe),6896,,0,,Expense,EUR
+Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchverlust),Sonstige Kosten (Gruppe),6897,,0,,Expense,EUR
+Anlagenabgänge Finanzanlagen §3 Nr. 40 EStG bzw. §8b Abs.2 KStG i. V. m. §8b Abs.3 S.3 KstG (Restbuchwert bei Buchverlust),Sonstige Kosten (Gruppe),6898,,0,,Expense,EUR
+Verluste aus dem Abgang von Ggenständen des Umlaufvermögens (außer Vorräte),Sonstige Kosten (Gruppe),6905,,0,,Expense,EUR
+Verluste aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte) §3 Nr.40 EStG bzw. §8b Abs.2 KstG,Sonstige Kosten (Gruppe),6906,,0,,Expense,EUR
+Abschreibungen auf Umlaufvermögen außer Vorräte und Wertpapiere (übliche Höhe),Sonstige Kosten (Gruppe),6910,,0,,Expense,EUR
+Einstellung in die Pauschalwertberichtigung auf Forderungen,Sonstige Kosten (Gruppe),6920,,0,,Expense,EUR
+Einstellung in die Einzelwertberichtigung auf Forderungen,Sonstige Kosten (Gruppe),6923,,0,,Expense,EUR
+Periodenfremde Aufwendungen (soweit nicht außerordentlich),Sonstige Kosten (Gruppe),6960,,0,,Expense,EUR
+Verluste durch Verschmelzung und Umwandlung,Sonstige Kosten (Gruppe),7551,,0,,Expense,EUR
+Aufwendungen für Restrukturierungs- und Sanierungsmaßnahmen,Sonstige Kosten (Gruppe),7553,,0,,Expense,EUR
+Fahrzeugkosten (Gruppe),Sonstige Kosten (Gruppe),,,1,,Expense,EUR
+Fahrzeugkosten,Fahrzeugkosten (Gruppe),6500,,0,,Expense,EUR
+Kfz-Versicherungen,Fahrzeugkosten (Gruppe),6520,,0,,Expense,EUR
+Laufende Kfz-Betriebskosten,Fahrzeugkosten (Gruppe),6530,,0,,Expense,EUR
+Kfz-Reparaturen,Fahrzeugkosten (Gruppe),6540,,0,,Expense,EUR
+Garagenmiete,Fahrzeugkosten (Gruppe),6550,,0,,Expense,EUR
+Mietleasing Kfz,Fahrzeugkosten (Gruppe),6560,,0,,Expense,EUR
+Sonstige Kfz-Kosten,Fahrzeugkosten (Gruppe),6570,,0,,Expense,EUR
+Mautgebühren,Fahrzeugkosten (Gruppe),6580,,0,,Expense,EUR
+Kfz-Kosten für betrieblich genutzte zum Privatvermögen gehörende Kraftfahrzeuge,Fahrzeugkosten (Gruppe),6590,,0,,Expense,EUR
+Fremdfahrzeugkosten,Fahrzeugkosten (Gruppe),6595,,0,,Expense,EUR
+Forderungsverluste (übliche Höhe) (Gruppe),Sonstige Kosten (Gruppe),,,1,,Expense,EUR
+Forderungsverluste (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6930,,0,,Expense,EUR
+Forderungsverluste 7 % USt (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6931,,0,,Expense,EUR
+Forderungsverluste aus steuerfreien EU-Lieferungen (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6932,,0,,Expense,EUR
+Forderungsverluste aus im Inland steuerpfl. EU-Lieferungen 7 % USt (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6933,,0,,Expense,EUR
+Forderungsverluste 19 % USt (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6936,,0,,Expense,EUR
+Forderungsverluste aus im Inland steuerpfl. EU-Lieferungen 19 % USt (übliche Höhe),Forderungsverluste (übliche Höhe) (Gruppe),6938,,0,,Expense,EUR
+Kosten Warenabgabe (Gruppe),Sonstige Kosten (Gruppe),,,1,,Expense,EUR
+Kosten Warenabgabe,Kosten Warenabgabe (Gruppe),6700,,0,,Expense,EUR
+Verpackungsmaterial,Kosten Warenabgabe (Gruppe),6710,,0,,Expense,EUR
+Ausgangsfrachten,Kosten Warenabgabe (Gruppe),6740,,0,,Expense,EUR
+Transportversicherungen,Kosten Warenabgabe (Gruppe),6760,,0,,Expense,EUR
+Verkaufsprovisionen,Kosten Warenabgabe (Gruppe),6770,,0,,Expense,EUR
+Fremdarbeiten (Vertrieb),Kosten Warenabgabe (Gruppe),6780,,0,,Expense,EUR
+Aufwand für Gewährleistungen,Kosten Warenabgabe (Gruppe),6790,,0,,Expense,EUR
+Werbekosten (Gruppe),Sonstige Kosten (Gruppe),,,1,,Expense,EUR
+Werbekosten,Werbekosten (Gruppe),6600,,0,,Expense,EUR
+Streuartikel,Werbekosten (Gruppe),6605,,0,,Expense,EUR
+Geschenke abzugsfähig ohne § 37b EStG,Werbekosten (Gruppe),6610,,0,,Expense,EUR
+Geschenke abzugsfähig mit § 37b EStG,Werbekosten (Gruppe),6611,,0,,Expense,EUR
+Pauschale Steuern für Geschenke und Zugaben abzugsfähig,Werbekosten (Gruppe),6612,,0,,Expense,EUR
+Geschenke nicht abzugsfähig ohne § 37b EStG,Werbekosten (Gruppe),6620,,0,,Expense,EUR
+Geschenke nicht abzugsfähig mit § 37b EStG,Werbekosten (Gruppe),6621,,0,,Expense,EUR
+Pauschale Steuern für Geschenke und Zuwendungen nicht abzugsfähig,Werbekosten (Gruppe),6622,,0,,Expense,EUR
+Geschenke ausschließlich betrieblich genutzt,Werbekosten (Gruppe),6625,,0,,Expense,EUR
+Zugaben mit § 37b EStG,Werbekosten (Gruppe),6629,,0,,Expense,EUR
+Repräsentationskosten,Werbekosten (Gruppe),6630,,0,,Expense,EUR
+Bewirtungskosten,Werbekosten (Gruppe),6640,,0,,Expense,EUR
+Sonstige eingeschränkt abziehbare Betriebsausgaben (abziehbarer Anteil),Werbekosten (Gruppe),6641,,0,,Expense,EUR
+Sonstige eingeschränkt abziehbare Betriebsausgaben (nicht abziehbarer Anteil),Werbekosten (Gruppe),6642,,0,,Expense,EUR
+Aufmerksamkeiten,Werbekosten (Gruppe),6643,,0,,Expense,EUR
+Nicht abzugsfähige Bewirtungskosten,Werbekosten (Gruppe),6644,,0,,Expense,EUR
+Nicht abzugsfähige Betriebsausgaben aus Werbe- und Repräsentationskosten,Werbekosten (Gruppe),6645,,0,,Expense,EUR
+Fahrten zwischen Wohnung und Betriebsstätte und Familienheimfahrten (abziehbarer Anteil),Werbekosten (Gruppe),6688,,0,,Expense,EUR
+Fahrten zwischen Wohnung und Betriebsstätte und Familienheimfahrten (nicht abziehbarer Anteil),Werbekosten (Gruppe),6689,,0,,Expense,EUR
+Fahrten zwischen Wohnung und Betriebsstätte und Familienheimfahrten (Haben),Werbekosten (Gruppe),6690,,0,,Expense,EUR
+Verpflegungsmehraufwendungen im Rahmen der doppelten Haushaltsführung (abziehbarer Anteil),Werbekosten (Gruppe),6691,,0,,Expense,EUR
+Reisekosten Arbeitnehmer (Gruppe),Werbekosten (Gruppe),,,1,,Expense,EUR
+Reisekosten Arbeitnehmer,Reisekosten Arbeitnehmer (Gruppe),6650,,0,,Expense,EUR
+Reisekosten Arbeitnehmer Übernachtungsaufwand,Reisekosten Arbeitnehmer (Gruppe),6660,,0,,Expense,EUR
+Reisekosten Arbeitnehmer Fahrtkosten,Reisekosten Arbeitnehmer (Gruppe),6663,,0,,Expense,EUR
+Reisekosten Arbeitnehmer Verpflegungsmehraufwand,Reisekosten Arbeitnehmer (Gruppe),6664,,0,,Expense,EUR
+Kilometergelderstattung Arbeitnehmer,Reisekosten Arbeitnehmer (Gruppe),6668,,0,,Expense,EUR
+Reisekosten Unternehmer (Gruppe),Werbekosten (Gruppe),,,1,,Expense,EUR
+Reisekosten Unternehmer,Reisekosten Unternehmer (Gruppe),6670,,0,,Expense,EUR
+Reisekosten Unternehmer (nicht abziehbarer Anteil),Reisekosten Unternehmer (Gruppe),6672,,0,,Expense,EUR
+Reisekosten Unternehmer Fahrtkosten,Reisekosten Unternehmer (Gruppe),6673,,0,,Expense,EUR
+Reisekosten Unternehmer Verpflegungsmehraufwand,Reisekosten Unternehmer (Gruppe),6674,,0,,Expense,EUR
+Reisekosten Unternehmer Übernachtungsaufwand,Reisekosten Unternehmer (Gruppe),6680,,0,,Expense,EUR
+"Zuwendungen, Spenden (Gruppe)",Sonstige Kosten (Gruppe),,,1,,Expense,EUR
+"Zuwendungen, Spenden, steuerlich nicht abziehbar","Zuwendungen, Spenden (Gruppe)",6390,,0,,Expense,EUR
+"Zuwendungen, Spenden für wissenschaftliche und kulturelle Zwecke","Zuwendungen, Spenden (Gruppe)",6391,,0,,Expense,EUR
+"Zuwendungen, Spenden für mildtätige Zwecke","Zuwendungen, Spenden (Gruppe)",6392,,0,,Expense,EUR
+"Zuwendungen, Spenden für kirchliche, religiöse und gemeinnützige Zwecke","Zuwendungen, Spenden (Gruppe)",6393,,0,,Expense,EUR
+"Zuwendungen, Spenden an politische Parteien","Zuwendungen, Spenden (Gruppe)",6394,,0,,Expense,EUR
+"Zuwendungen, Spenden an Stiftungen für gemeinnützige Zwecke i. S. d. § 52 Abs. 2 Nr. 1-3 AO","Zuwendungen, Spenden (Gruppe)",6395,,0,,Expense,EUR
+"Zuwendungen, Spenden an Stiftungen für kirchliche, religiöse und gemeinnützige Zwecke","Zuwendungen, Spenden (Gruppe)",6397,,0,,Expense,EUR
+"Zuwendungen, Spenden an Stiftungen fürwissenschaftliche, mildtätige und kulturelle Zwecke","Zuwendungen, Spenden (Gruppe)",6398,,0,,Expense,EUR
+4 - Vertriebskosten,,,,1,Expense Account,Expense,EUR
+5 - allgemeine Verwaltungskosten,,,,1,Expense Account,Expense,EUR
+6 - sonstige betriebliche Erträge,,,,1,,Income,EUR
+Unentgeltliche Wertabgaben,6 - sonstige betriebliche Erträge,4600,,0,,Income,EUR
+Entnahme von Gegenständen ohne USt,6 - sonstige betriebliche Erträge,4605,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 7 % USt,6 - sonstige betriebliche Erträge,4630,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens ohne USt,6 - sonstige betriebliche Erträge,4637,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternnehmens ohne USt (Telefon-Nutzung),6 - sonstige betriebliche Erträge,4638,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens ohne USt (Kfz-Nutzung),6 - sonstige betriebliche Erträge,4639,,0,,Income,EUR
+Unentgeltliche Erbringung einer sonstigen Leistung 7 % USt,6 - sonstige betriebliche Erträge,4650,,0,,Income,EUR
+Unentgeltliche Erbringung einer sonstigen Leistung ohne USt,6 - sonstige betriebliche Erträge,4659,,0,,Income,EUR
+Unentgeltliche Erbringung einer sonstigen Leistung 19 % USt,6 - sonstige betriebliche Erträge,4660,,0,,Income,EUR
+Unentgeltliche Zuwendung von Waren 7 % USt,6 - sonstige betriebliche Erträge,4670,,0,,Income,EUR
+Unentgeltliche Zuwendung von Waren ohne USt,6 - sonstige betriebliche Erträge,4679,,0,,Income,EUR
+Unentgeltliche Zuwendung von Waren 19 % USt,6 - sonstige betriebliche Erträge,4680,,0,,Income,EUR
+Unentgeltliche Zuwendung von Gegenständen 19 % USt,6 - sonstige betriebliche Erträge,4686,,0,,Income,EUR
+Unentgeltliche Zuwendung von Gegenständen ohne USt,6 - sonstige betriebliche Erträge,4689,,0,,Income,EUR
+Sonstige betriebliche Erträge,6 - sonstige betriebliche Erträge,4830,,0,,Income,EUR
+Sonstige betriebliche Erträge von verbundenen Unternehmen,6 - sonstige betriebliche Erträge,4832,,0,,Income,EUR
+Sonstige Erträge betrieblich und regelmäßig 16 % USt,6 - sonstige betriebliche Erträge,4834,,0,,Income,EUR
+Sonstige Erträge betrieblich und regelmäßig,6 - sonstige betriebliche Erträge,4835,,0,,Income,EUR
+Sonstige Erträge betrieblich und regelmäßig 19 % USt,6 - sonstige betriebliche Erträge,4836,,0,,Income,EUR
+Erstattete Vorsteuer anderer Länder,6 - sonstige betriebliche Erträge,4838,,0,,Income,EUR
+Sonstige Erträge unregelmäßig,6 - sonstige betriebliche Erträge,4839,,0,,Income,EUR
+Erträge aus der Währungsumrechnung,6 - sonstige betriebliche Erträge,4840,,0,,Income,EUR
+"Sonstige Erlöse betrieblich und regelmäßig, steuerfrei § 4 Nr. 8 ff UStG",6 - sonstige betriebliche Erträge,4841,,0,,Income,EUR
+"Sonstige Erlöse betrieblich und regelmäßig, steuerfrei z. B. § 4 Nr. 2-7 UStG",6 - sonstige betriebliche Erträge,4842,,0,,Income,EUR
+Erträge aus Bewertung Finanzmittelfonds,6 - sonstige betriebliche Erträge,4843,,0,,Income,EUR
+Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1a UStG (bei Buchgewinn),6 - sonstige betriebliche Erträge,4844,,0,,Income,EUR
+Erlöse aus Verkäufen Sachanlagevermögen 19 % USt (bei Buchgewinn),6 - sonstige betriebliche Erträge,4845,,0,,Income,EUR
+Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1b UStG (bei Buchgewinn),6 - sonstige betriebliche Erträge,4848,,0,,Income,EUR
+Erlöse aus Verkäufen Sachanlagevermögen (bei Buchgewinn),6 - sonstige betriebliche Erträge,4849,,0,,Income,EUR
+Erlöse aus Verkäufen immaterieller Vermögensgegenstände (bei Buchgewinn),6 - sonstige betriebliche Erträge,4850,,0,,Income,EUR
+Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn),6 - sonstige betriebliche Erträge,4851,,0,,Income,EUR
+Andere aktivierte Eigenleistungen (Gruppe),6 - sonstige betriebliche Erträge,,,1,,Income,EUR
+Andere aktivierte Eigenleistungen,Andere aktivierte Eigenleistungen (Gruppe),4820,,0,,Income,EUR
+Aktivierte Eigenleistungen zur Erstellung von selbst geschaffenen immateriellen Vermögensgegenständen,Andere aktivierte Eigenleistungen (Gruppe),4825,,0,,Income,EUR
+Erlöse aus Verkäufen Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG (bei Buchgewinn),6 - sonstige betriebliche Erträge,4852,,0,,Income,EUR
+Anlagenabgänge Sachanlagen (Restbuchwert bei Buchvergewinn),6 - sonstige betriebliche Erträge,4855,,0,,Income,EUR
+Anlagenabgänge immaterielle Vermögensgegenstände (Restbuchwert bei Buchgewinn),6 - sonstige betriebliche Erträge,4856,,0,,Income,EUR
+Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn),6 - sonstige betriebliche Erträge,4857,,0,,Income,EUR
+Anlagenabgänge Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG (Restbuchwert bei Buchgewinn),6 - sonstige betriebliche Erträge,4858,,0,,Income,EUR
+Erträge aus Abgang von Gegenständen des Umlaufvermögens (außer Vorräte),6 - sonstige betriebliche Erträge,4905,,0,,Income,EUR
+Erträge aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte) § 3 Nr. 40 EstG bzw. § 8b Abs. 2 KstG,6 - sonstige betriebliche Erträge,4906,,0,,Income,EUR
+Erträge aus Zuschreibungen des Sachanlagevermögens,6 - sonstige betriebliche Erträge,4910,,0,,Income,EUR
+Erträge aus Zuschreibungen des immateriellen Anlagevermögens,6 - sonstige betriebliche Erträge,4911,,0,,Income,EUR
+Erträge aus Zuschreibungen des Finanzanlagevermögens,6 - sonstige betriebliche Erträge,4912,,0,,Income,EUR
+Erträge aus Zuschreibungen des Finanzanlagevermögens § 3 Nr. 40 EStG bzw. § 8b Abs. 3 S. 9 KstG,6 - sonstige betriebliche Erträge,4913,,0,,Income,EUR
+Erträge aus Zuschreibungen § 3 Nr. 40 EstG bzw. § 8b Abs. 2 KstG,6 - sonstige betriebliche Erträge,4914,,0,,Income,EUR
+Erträge aus Zuschreibungen des Umlaufvermögens (außer Vorräte),6 - sonstige betriebliche Erträge,4915,,0,,Income,EUR
+Erträge aus Zuschreibungen des Umlaufvermögens § 3 Nr. 40 EStG bzw. § 8b Abs. 3 S. 9 KstG,6 - sonstige betriebliche Erträge,4916,,0,,Income,EUR
+Erträge aus Herabsetzung der Pauschalwertberichtigung auf Forderungen,6 - sonstige betriebliche Erträge,4920,,0,,Income,EUR
+Erträge aus Herabsetzung der Einzelwertberichtigung auf Forderungen,6 - sonstige betriebliche Erträge,4923,,0,,Income,EUR
+Erträge aus abgeschriebenen Forderungen,6 - sonstige betriebliche Erträge,4925,,0,,Income,EUR
+Erträge aus der Auflösung einer steuerlichen Rücklage nach § 6b Abs. 3 EStG,6 - sonstige betriebliche Erträge,4927,,0,,Income,EUR
+Erträge aus der Auflösung einer steuerlichen Rücklage nach § 6b Abs. 10 EStG,6 - sonstige betriebliche Erträge,4928,,0,,Income,EUR
+Erträge aus der Auflösung von Rückstellungen,6 - sonstige betriebliche Erträge,4930,,0,,Income,EUR
+Erträge aus der Auflösung einer steuerlichen Rücklage,6 - sonstige betriebliche Erträge,4935,,0,,Income,EUR
+Erträge aus der Auflösung steuerrechtlicher Sonderabschreibungen,6 - sonstige betriebliche Erträge,4937,,0,,Income,EUR
+Periodenfremde Erträge (soweit nicht außerordentlich),6 - sonstige betriebliche Erträge,4960,,0,,Income,EUR
+Versicherungsentschädigungen und Schadenersatzleistungen,6 - sonstige betriebliche Erträge,4970,,0,,Income,EUR
+Erstattungen Aufwendungsausgleichsgesetz,6 - sonstige betriebliche Erträge,4972,,0,,Income,EUR
+Investitionszuschüsse (steuerpflichtig),6 - sonstige betriebliche Erträge,4975,,0,,Income,EUR
+Investitionszulagen (steuerfrei),6 - sonstige betriebliche Erträge,4980,,0,,Income,EUR
+Steuerfreie Erträge aus der Auflösung von steuerlichen Rücklagen,6 - sonstige betriebliche Erträge,4981,,0,,Income,EUR
+Sonstige steuerfreie Betriebseinnahmen,6 - sonstige betriebliche Erträge,4982,,0,,Income,EUR
+Erträge aus der Aktivierung unentgeltlich erworbener Vermögensgegenstände,6 - sonstige betriebliche Erträge,4987,,0,,Income,EUR
+"Kostenerstattungen, Rückvergütungen und Gutschriften für frühere Jahre",6 - sonstige betriebliche Erträge,4989,,0,,Income,EUR
+Erträge durch Verschmelzung und Umwandlung,6 - sonstige betriebliche Erträge,7451,,0,,Income,EUR
+Verrechnete sonstige Sachbezüge (Gruppe),6 - sonstige betriebliche Erträge,,,1,,Income,EUR
+Verrechnete sonstige Sachbezüge (keine Waren),Verrechnete sonstige Sachbezüge (Gruppe),4940,,0,,Income,EUR
+Sachbezüge 7 % USt (Waren),Verrechnete sonstige Sachbezüge (Gruppe),4941,,0,,Income,EUR
+Sachbezüge 19 % USt (Waren),Verrechnete sonstige Sachbezüge (Gruppe),4945,,0,,Income,EUR
+Verrechnete sonstige Sachbezüge,Verrechnete sonstige Sachbezüge (Gruppe),4946,,0,,Income,EUR
+Verrechnete sonstige Sachbezüge aus Kfz-Gestellung 19% USt,Verrechnete sonstige Sachbezüge (Gruppe),4947,,0,,Income,EUR
+Verrechnete sonstige Sachbezüge 19% USt,Verrechnete sonstige Sachbezüge (Gruppe),4948,,0,,Income,EUR
+Verrechnete sonstige Sachbezüge ohne Umsatzsteuer,Verrechnete sonstige Sachbezüge (Gruppe),4949,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Gruppe),6 - sonstige betriebliche Erträge,,,1,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt,Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Gruppe),4640,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Kfz-Nutzung),Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Gruppe),4645,,0,,Income,EUR
+Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Telefon-Nutzung),Verwendung von Gegenständen für Zwecke außerhalb des Unternehmens 19 % USt (Gruppe),4646,,0,,Income,EUR
+7 - sonstige betriebliche Aufwendungen,,,,1,,Expense,EUR
+8 - Erträge aus Beteiligungen,,,,1,,Income,EUR
+Erträge aus Beteiligungen,8 - Erträge aus Beteiligungen,7000,,0,,Income,EUR
+"Erträge aus Beteiligungen an Personengesellschaften (verb. Unternehmen), § 9 GewStG",8 - Erträge aus Beteiligungen,7004,,0,,Income,EUR
+Erträge aus Anteilen an Kap.Ges. (inländische Beteiligung),8 - Erträge aus Beteiligungen,7005,,0,,Income,EUR
+Erträge aus Anteilen an Kap.Ges. (inländische verb. Unternehmen),8 - Erträge aus Beteiligungen,7006,,0,,Income,EUR
+Gewinnanteile aus Mitunternehmerschaften § 9 GewStG,8 - Erträge aus Beteiligungen,7008,,0,,Income,EUR
+8 - davon aus verbundenen Unternehmen (Gruppe),8 - Erträge aus Beteiligungen,,,1,,Income,EUR
+Erträge aus Beteiligungen an verbundenen Unternehmen,8 - davon aus verbundenen Unternehmen (Gruppe),7009,,0,,Income,EUR
+"8b - Auf Grund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabführungsvertrags erhaltene Gewinne",,,,1,,Income,EUR
+Erhaltene Gewinne auf Grund einer Gewinngemeinschaft,"8b - Auf Grund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabführungsvertrags erhaltene Gewinne",7192,,0,,Income,EUR
+Erhaltene Gewinne auf Grund eines Gewinn- oder Teilgewinnabführungsvertrags,"8b - Auf Grund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabführungsvertrags erhaltene Gewinne",7194,,0,,Income,EUR
+9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,,,,1,,Income,EUR
+Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7010,,0,,Income,EUR
+Erträge aus Ausleihungen des Finanzanlagevermögens,9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7011,,0,,Income,EUR
+Erträge aus Anteilen an Personengesellschaften (Finanzanlagevermögen),9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7013,,0,,Income,EUR
+Erträge aus Anteilen an Kapitalgesellschaften (Finanzanlagevermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 und 4 KStG,9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7014,,0,,Income,EUR
+Zins- und Dividendenerträge,9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7020,,0,,Income,EUR
+Erhaltene Ausgleichszahlungen (als außenstehender Aktionär),9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,7030,,0,,Income,EUR
+9 - davon aus verbundenen Unternehmen (Gruppe),9 - Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens,,,1,,Income,EUR
+Erträge aus Ausleihungen des Finanzanlagevermögens an verbundenen Unternehmen,9 - davon aus verbundenen Unternehmen (Gruppe),7012,,0,,Income,EUR
+Erträge aus Anteilen an Personengesellschaften (verb. Unternehmen),9 - davon aus verbundenen Unternehmen (Gruppe),7016,,0,,Income,EUR
+Erträge aus anderen Wertpapieren des Finanzanlageverm. an Kap.Ges. (verb. Unternehmen),9 - davon aus verbundenen Unternehmen (Gruppe),7017,,0,,Income,EUR
+Erträge aus anderen Wertpapieren des Finanzanlageverm. an Pers.Ges. (verb. Unternehmen),9 - davon aus verbundenen Unternehmen (Gruppe),7018,,0,,Income,EUR
+Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm. aus verbundenen Unternehmen,9 - davon aus verbundenen Unternehmen (Gruppe),7019,,0,,Income,EUR
+A - Eigenkapital,,,,1,Equity,Equity,EUR
+Einlagen stiller Gesellschafter (Gruppe),A - Eigenkapital,,,1,,Equity,EUR
+Einlagen stiller Gesellschafter,Einlagen stiller Gesellschafter (Gruppe),9295,,0,,Equity,EUR
+I - Gezeichnetes Kapital,A - Eigenkapital,,,1,Equity,Equity,EUR
+Gezeichnetes Kapital,I - Gezeichnetes Kapital,2900,,0,Equity,Equity,EUR
+Geschäftsguthaben der verbleibenden Mitglieder,I - Gezeichnetes Kapital,2901,,0,,Equity,EUR
+Geschäftsguthaben der ausscheidenden Mitglieder,I - Gezeichnetes Kapital,2902,,0,,Equity,EUR
+Geschäftsguthaben aus gekündigten Geschäftsanteilen,I - Gezeichnetes Kapital,2903,,0,,Equity,EUR
+"Rückständige fällige Einzahlungen auf Geschäftsanteile, vermerkt",I - Gezeichnetes Kapital,2906,,0,,Equity,EUR
+"Gegenkonto Rückständige fällige Einzahlungen auf Geschäftsanteile, vermerkt",I - Gezeichnetes Kapital,2907,,0,,Equity,EUR
+Kapitalerhöhung aus Gesellschaftsmitteln,I - Gezeichnetes Kapital,2908,,0,,Equity,EUR
+"Ausstehende Einlagen auf das gezeichnete Kapital, nicht eingefordert",I - Gezeichnetes Kapital,2910,,0,,Equity,EUR
+II - Kapitalrücklage,A - Eigenkapital,,,1,Equity,Equity,EUR
+Kapitalrücklage,II - Kapitalrücklage,2920,,0,,Equity,EUR
+Kapitalrücklage durch Ausgabe von Anteilen über Nennbetrag,II - Kapitalrücklage,2925,,0,,Equity,EUR
+Kapitalrücklage durch Ausgabe von Schuldverschreibungen,II - Kapitalrücklage,2926,,0,,Equity,EUR
+Kapitalrücklage durch Zuzahlungen gegen Gewährung eines Vorzugs,II - Kapitalrücklage,2927,,0,,Equity,EUR
+Kapitalrücklage durch Zuzahlungen in das Eigenkapital,II - Kapitalrücklage,2928,,0,,Equity,EUR
+Nachschusskapital (Gegenkonto 1299),II - Kapitalrücklage,2929,,0,,Equity,EUR
+III - Gewinnrücklagen,A - Eigenkapital,,,1,Equity,Equity,EUR
+1 - gesetzliche Rücklage,III - Gewinnrücklagen,,,1,Equity,Equity,EUR
+Gesetzliche Rücklage,1 - gesetzliche Rücklage,2930,,0,,Equity,EUR
+2 - Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen,III - Gewinnrücklagen,,,1,Equity,Equity,EUR
+Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen,2 - Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen,2935,,0,,Equity,EUR
+3 - satzungsmäßige Rücklagen,III - Gewinnrücklagen,,,1,Equity,Equity,EUR
+Satzungsmäßige Rücklagen,3 - satzungsmäßige Rücklagen,2950,,0,,Equity,EUR
+4 - andere Gewinnrücklagen,III - Gewinnrücklagen,,,1,Equity,Equity,EUR
+Andere Gewinnrücklagen,4 - andere Gewinnrücklagen,2960,,0,,Equity,EUR
+Andere Gewinnrücklagen aus dem Erwerb eigener Anteile,4 - andere Gewinnrücklagen,2961,,0,,Equity,EUR
+Eigenkapitalanteil von Wertaufholungen,4 - andere Gewinnrücklagen,2962,,0,,Equity,EUR
+Anfangskapital,4 - andere Gewinnrücklagen,,,1,,Equity,EUR
+Gewinnrücklagen (BilMoG),Anfangskapital,2963,,0,,Equity,EUR
+Gewinnrücklagen aus Zuschreibung Sachanlagevermögen (BilMoG),Anfangskapital,2964,,0,,Equity,EUR
+Gewinnrücklagen aus Zuschreibung Finanzanlagevermögen (BilMoG),Anfangskapital,2965,,0,,Equity,EUR
+Gewinnrücklagen aus Auflösung der Sonderposten mit Rücklageanteil (BilMoG),Anfangskapital,2966,,0,,Equity,EUR
+Latente Steuern (Gewinnrücklage Haben) aus erfolgsneutralen Verrechnungen,Anfangskapital,2967,,0,,Equity,EUR
+Latente Steuern (Gewinnrücklage Soll) aus erfolgsneutralen Verrechnungen,Anfangskapital,2968,,0,,Equity,EUR
+Rechnungsabgrenzungsposten (Gewinnrücklage Soll) aus erfolgsneutralen Verrechnungen,Anfangskapital,2969,,0,,Equity,EUR
+IV - Gewinnvortrag/Verlustvortrag,A - Eigenkapital,,,1,Equity,Equity,EUR
+Gewinnvortrag vor Verwendung,IV - Gewinnvortrag/Verlustvortrag,2970,,0,,Equity,EUR
+Verlustvortrag vor Verwendung,IV - Gewinnvortrag/Verlustvortrag,2978,,0,,Equity,EUR
+V – Jahresüberschuß/Jahresfehlbetrag,A - Eigenkapital,,,1,Equity,Equity,EUR
+B - Rückstellungen,,,,1,,Liability,EUR
+1 - Rückstellungen für Pensionen und ähnliche Verplichtungen,B - Rückstellungen,,,1,,Liability,EUR
+Rückstellungen für Pensionen und ähnliche Verpflichtungen,1 - Rückstellungen für Pensionen und ähnliche Verplichtungen,3000,,0,,Liability,EUR
+Rückstellungen für Pensionen und ähnliche Verpflichtungen (Saldierung mit langfristigen Vermögensgegenstände),1 - Rückstellungen für Pensionen und ähnliche Verplichtungen,3009,,0,,Liability,EUR
+Rückstellungen für Direktzusagen,1 - Rückstellungen für Pensionen und ähnliche Verplichtungen,3010,,0,,Liability,EUR
+Rückstellungen für Pensionen Zuschussverpflichtungen für Pensionskassen und Lebensversicherungen,1 - Rückstellungen für Pensionen und ähnliche Verplichtungen,3011,,0,,Liability,EUR
+2 - Steuerrückstellungen,B - Rückstellungen,,,1,,Liability,EUR
+Steuerrückstellungen,2 - Steuerrückstellungen,3020,,0,,Liability,EUR
+"Gewerbesteuerrückstellung, § 4 Abs. 5b EStG",2 - Steuerrückstellungen,3035,,0,,Liability,EUR
+3 - sonstige Rückstellungen,B - Rückstellungen,,,1,,Liability,EUR
+Sonderposten mit Rücklageanteil (Gruppe),3 - sonstige Rückstellungen,,,1,,Liability,EUR
+"Sonderposten mit Rücklageanteil, Sonderabschreibungen",Sonderposten mit Rücklageanteil (Gruppe),2990,,0,,Liability,EUR
+Sonderposten mit Rücklageanteil nach § 7g Abs. 1 EStG a. F. / § 7g Abs. 5 EStG n. F,Sonderposten mit Rücklageanteil (Gruppe),2997,,0,,Liability,EUR
+Sonderposten für Zuschüsse und Zulagen (Gruppe),3 - sonstige Rückstellungen,,,1,,Liability,EUR
+Sonderposten für Zuschüsse Dritter,Sonderposten für Zuschüsse und Zulagen (Gruppe),2998,,0,,Liability,EUR
+Sonderposten für Zuschüsse und Zulagen,Sonderposten für Zuschüsse und Zulagen (Gruppe),2999,,0,,Liability,EUR
+Sonstige Rückstellungen,3 - sonstige Rückstellungen,3070,,0,,Liability,EUR
+Rückstellungen für Personalkosten,3 - sonstige Rückstellungen,3074,,0,,Liability,EUR
+"Rückstellungen für unterlassene Aufwendungen für Instandhaltung, Nachholung in den ersten drei Monaten",3 - sonstige Rückstellungen,3075,,0,,Liability,EUR
+Rückstellungen für mit der Altersversicherung vergleichbare langfristigen Verpflichtungen zum langfristigen Verbleib,3 - sonstige Rückstellungen,3076,,0,,Liability,EUR
+Rückstellungen für mit der Altersversicherung vergleichbare langfristigen Verpflichtungen (Saldierung mit langfr. VG),3 - sonstige Rückstellungen,3077,,0,,Liability,EUR
+Rückstellungen für Abraum- und Abfallbeseitigung,3 - sonstige Rückstellungen,3085,,0,,Liability,EUR
+Rückstellungen für Gewährleistungen,3 - sonstige Rückstellungen,3090,,0,,Liability,EUR
+Rückstellungen für drohende Verluste aus schwebenden Geschäften,3 - sonstige Rückstellungen,3092,,0,,Liability,EUR
+Rückstellungen für Abschluss- und Prüfungskosten,3 - sonstige Rückstellungen,3095,,0,,Liability,EUR
+Rückstellungen zur Erfüllung der Aufbewahrungspflichten,3 - sonstige Rückstellungen,3096,,0,,Liability,EUR
+Rückstellungen für Umweltschutz,3 - sonstige Rückstellungen,3099,,0,,Liability,EUR
+C - Verbindlichkeiten,,,,1,Payable,Liability,EUR
+1 - Anleihen,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+"Anleihen, nicht konvertibel",1 - Anleihen,3100,,0,,Liability,EUR
+"Anleihen, nicht konvertibel, Restlaufzeit bis 1 Jahr",1 - Anleihen,3101,,0,,Liability,EUR
+"Anleihen, nicht konvertibel, Restlaufzeit 1 bis 5 Jahre",1 - Anleihen,3105,,0,,Liability,EUR
+"Anleihen, nicht konvertibel, Restlaufzeit größer 5 Jahre",1 - Anleihen,3110,,0,,Liability,EUR
+davon konvertibel,1 - Anleihen,,,1,Payable,Liability,EUR
+"Anleihen, konvertibel",davon konvertibel,3120,,0,,Liability,EUR
+"Anleihen, konvertibel, Restlaufzeit bis 1 Jahr",davon konvertibel,3121,,0,,Liability,EUR
+"Anleihen, konvertibel, Restlaufzeit 1 bis 5 Jahre",davon konvertibel,3125,,0,,Liability,EUR
+"Anleihen, konvertibel, Restlaufzeit größer 5 Jahre",davon konvertibel,3130,,0,,Liability,EUR
+2 - Verbindlichkeiten gegenüber Kreditinstituten,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Bewertungskorrektur zu Verbindlichkeiten gegenüber Kreditinstituten,2 - Verbindlichkeiten gegenüber Kreditinstituten,9963,,0,,Liability,EUR
+Verbindlichkeiten gegenüber Kreditinstituten (Gruppe),2 - Verbindlichkeiten gegenüber Kreditinstituten,,,1,,Liability,EUR
+Verbindlichkeiten gegenüber Kreditinstituten,Verbindlichkeiten gegenüber Kreditinstituten (Gruppe),3150,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten, Restlaufzeit bis 1 Jahr",Verbindlichkeiten gegenüber Kreditinstituten (Gruppe),3151,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten, Restlaufzeit 1 bis 5 Jahre",Verbindlichkeiten gegenüber Kreditinstituten (Gruppe),3160,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten, Restlaufzeit größer 5 Jahre",Verbindlichkeiten gegenüber Kreditinstituten (Gruppe),3170,,0,,Liability,EUR
+Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen (Gruppe),2 - Verbindlichkeiten gegenüber Kreditinstituten,,,1,,Liability,EUR
+Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen,Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen (Gruppe),3180,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen, Restlaufzeit bis 1 Jahr",Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen (Gruppe),3181,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen, Restlaufzeit 1 bis 5 Jahre",Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen (Gruppe),3190,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen, Restlaufzeit größer 5 Jahre",Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen (Gruppe),3200,,0,,Liability,EUR
+Verbindlichkeiten gegenüber Kreditinstituten (nicht im Finanzmittelfonds enthalten),2 - Verbindlichkeiten gegenüber Kreditinstituten,1895,,0,,Liability,EUR
+3 - erhaltene Anzahlungen auf Bestellungen,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Erhaltene Anzahlungen auf Bestellungen (Verbindlichkeiten),3 - erhaltene Anzahlungen auf Bestellungen,3250,,0,Receivable,Liability,EUR
+"Erhaltene, versteuerte Anzahlungen 7 % USt (Verbindlichkeiten)",3 - erhaltene Anzahlungen auf Bestellungen,3260,,0,Receivable,Liability,EUR
+"Erhaltene, versteuerte Anzahlungen 16 % USt (Verbindlichkeiten)",3 - erhaltene Anzahlungen auf Bestellungen,3270,,0,,Liability,EUR
+"Erhaltene, versteuerte Anzahlungen 19 % USt (Verbindlichkeiten)",3 - erhaltene Anzahlungen auf Bestellungen,3272,,0,Receivable,Liability,EUR
+Erhaltene Anzahlungen (Gruppe),3 - erhaltene Anzahlungen auf Bestellungen,,,1,,Liability,EUR
+"Erhaltene Anzahlungen, Restlaufzeit bis 1 Jahr",Erhaltene Anzahlungen (Gruppe),3280,,0,Receivable,Liability,EUR
+"Erhaltene Anzahlungen, Restlaufzeit 1 bis 5 Jahre",Erhaltene Anzahlungen (Gruppe),3284,,0,Receivable,Liability,EUR
+"Erhaltene Anzahlungen, Restlaufzeit größer 5 Jahre",Erhaltene Anzahlungen (Gruppe),3285,,0,Receivable,Liability,EUR
+4 - Verbindlichkeiten aus Lieferungen und Leistungen,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Verbindlichkeiten aus Lieferungen und Leistungen,4 - Verbindlichkeiten aus Lieferungen und Leistungen,3300,,0,Payable,Liability,EUR
+Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent,4 - Verbindlichkeiten aus Lieferungen und Leistungen,3310,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent, Restlaufzeit bis 1 Jahr",4 - Verbindlichkeiten aus Lieferungen und Leistungen,3335,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent, Restlaufzeit 1 bis 5 Jahre",4 - Verbindlichkeiten aus Lieferungen und Leistungen,3337,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent, Restlaufzeit größer 5 Jahre",4 - Verbindlichkeiten aus Lieferungen und Leistungen,3338,,0,,Liability,EUR
+Bewertungskorrektur zu Verbindlichkeiten aus Lieferungen und Leistungen,4 - Verbindlichkeiten aus Lieferungen und Leistungen,9964,,0,,Liability,EUR
+5 - Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Verbindlichkeiten aus der Annahme gezogener Wechsel und aus der Ausstellung eigener Wechsel,5 - Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel,3350,,0,,Liability,EUR
+"Verbindlichkeiten aus der Annahme gezogener Wechsel und aus der Ausstellung eigener Wechsel, Restlaufzeit bis 1 Jahr",5 - Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel,3351,,0,,Liability,EUR
+"Verbindlichkeiten aus der Annahme gezogener Wechsel und aus der Ausstellung eigner Wechsel, Restlaufzeit 1 bis 5 Jahre",5 - Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel,3380,,0,,Liability,EUR
+"Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel, Restlaufzeit größer 5 Jahre",5 - Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel,3390,,0,,Liability,EUR
+6 - Verbindlichkeiten gegen verbundene Unternehmen,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Verbindlichkeiten gegen verbundene Unternehmen,6 - Verbindlichkeiten gegen verbundene Unternehmen,3400,,0,,Liability,EUR
+"Verbindlichkeiten gegen verbundene Unternehmen, Restlaufzeit bis 1 Jahr",6 - Verbindlichkeiten gegen verbundene Unternehmen,3401,,0,,Liability,EUR
+"Verbindlichkeiten gegen verbundene Unternehmen, Restlaufzeit 1 bis 5 Jahre",6 - Verbindlichkeiten gegen verbundene Unternehmen,3405,,0,,Liability,EUR
+"Verbindlichkeiten gegen verbundene Unternehmen, Restlaufzeit größer 5 Jahre",6 - Verbindlichkeiten gegen verbundene Unternehmen,3410,,0,,Liability,EUR
+Verbindlichkeiten aus Lieferungen und Leistungen gegen verbundene Unternehmen,6 - Verbindlichkeiten gegen verbundene Unternehmen,3420,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen gegen verbundene Unternehmen, Restlaufzeit bis 1 Jahr",6 - Verbindlichkeiten gegen verbundene Unternehmen,3421,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen gegen verbundene Unternehmen, Restlaufzeit 1 bis 5 Jahre",6 - Verbindlichkeiten gegen verbundene Unternehmen,3425,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen gegen verbundene Unternehmen, Restlaufzeit größer 5 Jahre",6 - Verbindlichkeiten gegen verbundene Unternehmen,3430,,0,,Liability,EUR
+"7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+"Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3450,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Restlaufzeit bis 1 Jahr","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3451,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Restlaufzeit 1 bis 5 Jahre","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3455,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Restlaufzeit größer 5 Jahre","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3460,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3470,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ggü. Unternehmen, mit denen ein Beteiligungsverhältnis besteht (bis 1 Jahr)","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3471,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ggü. Unternehmen, mit denen ein Beteiligungsverhältnis besteht, (1 bis 5 J.)","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3475,,0,,Liability,EUR
+"Verbindlichkeiten aus Lieferungen und Leistungen ggü Unternehmen, mit denen ein Beteiligungsverhältnis besteht, (größer 5 J.)","7 - Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht",3480,,0,,Liability,EUR
+8 - sonstige Verbindlichkeiten,C - Verbindlichkeiten,,,1,Payable,Liability,EUR
+Sonstige Verbindlichkeiten,8 - sonstige Verbindlichkeiten,3500,,0,Payable,Liability,EUR
+"Sonstige Verbindlichkeiten, Restlaufzeit bis 1 Jahr",8 - sonstige Verbindlichkeiten,3501,,0,,Liability,EUR
+"Sonstige Verbindlichkeiten, Restlaufzeit 1 bis 5 Jahre",8 - sonstige Verbindlichkeiten,3504,,0,,Liability,EUR
+"Sonstige Verbindlichkeiten, Restlaufzeit größer 5 Jahre",8 - sonstige Verbindlichkeiten,3507,,0,,Liability,EUR
+"Darlehen, Restlaufzeit 1 bis 5 Jahre",8 - sonstige Verbindlichkeiten,3564,,0,,Liability,EUR
+"Darlehen, Restlaufzeit größer 5 Jahre",8 - sonstige Verbindlichkeiten,3567,,0,,Liability,EUR
+Kreditkartenabrechnung,8 - sonstige Verbindlichkeiten,3610,,0,,Liability,EUR
+Verbindlichkeiten gegenüber Arbeitsgemeinschaften,8 - sonstige Verbindlichkeiten,3611,,0,,Liability,EUR
+Gewinnverfügungskonto stille Gesellschafter,8 - sonstige Verbindlichkeiten,3620,,0,,Liability,EUR
+Sonstige Verrechnungskonten (Interimskonten),8 - sonstige Verbindlichkeiten,3630,,0,Asset Received But Not Billed,Liability,EUR
+Verbindlichkeiten gegenüber stillen Gesellschaftern,8 - sonstige Verbindlichkeiten,3655,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber stillen Gesellschaftern, Restlaufzeit bis 1 Jahr",8 - sonstige Verbindlichkeiten,3656,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber stillen Gesellschaftern, Restlaufzeit 1 bis 5 Jahre",8 - sonstige Verbindlichkeiten,3657,,0,,Liability,EUR
+"Verbindlichkeiten gegenüber stillen Gesellschaftern, Restlaufzeit größer 5 Jahre",8 - sonstige Verbindlichkeiten,3658,,0,,Liability,EUR
+Verbindlichkeiten aus Vermögensbildung,8 - sonstige Verbindlichkeiten,3770,,0,,Liability,EUR
+"Verbindlichkeiten aus Vermögensbildung, Restlaufzeit bis 1 Jahr",8 - sonstige Verbindlichkeiten,3771,,0,,Liability,EUR
+"Verbindlichkeiten aus Vermögensbildung, Restlaufzeit 1 bis 5 Jahre",8 - sonstige Verbindlichkeiten,3780,,0,,Liability,EUR
+"Verbindlichkeiten aus Vermögensbildung, Restlaufzeit größer 5 Jahre",8 - sonstige Verbindlichkeiten,3785,,0,,Liability,EUR
+Ausgegebene Geschenkgutscheine,8 - sonstige Verbindlichkeiten,3786,,0,,Liability,EUR
+Lohn- und Gehaltsverrechnungskonto,8 - sonstige Verbindlichkeiten,3790,,0,,Liability,EUR
+Bewertungskorrektur zu sonstigen Verbindlichkeiten,8 - sonstige Verbindlichkeiten,9961,,0,,Liability,EUR
+Darlehen atypisch stiller Gesellschafter (Gruppe),8 - sonstige Verbindlichkeiten,,,1,,Liability,EUR
+Darlehen atypisch stiller Gesellschafter,Darlehen atypisch stiller Gesellschafter (Gruppe),3530,,0,,Liability,EUR
+"Darlehen atypisch stiller Gesellschafter, Restlaufzeit bis 1 Jahr",Darlehen atypisch stiller Gesellschafter (Gruppe),3531,,0,,Liability,EUR
+"Darlehen atypisch stiller Gesellschafter, Restlaufzeit 1 bis 5 Jahre",Darlehen atypisch stiller Gesellschafter (Gruppe),3534,,0,,Liability,EUR
+"Darlehen atypisch stiller Gesellschafter, Restlaufzeit größer 5 Jahre",Darlehen atypisch stiller Gesellschafter (Gruppe),3537,,0,,Liability,EUR
+Darlehen typisch stiller Gesellschafter (Gruppe),8 - sonstige Verbindlichkeiten,,,1,,Liability,EUR
+Darlehen typisch stiller Gesellschafter,Darlehen typisch stiller Gesellschafter (Gruppe),3520,,0,,Liability,EUR
+"Darlehen typisch stiller Gesellschafter, Restlaufzeit bis 1 Jahr",Darlehen typisch stiller Gesellschafter (Gruppe),3521,,0,,Liability,EUR
+"Darlehen typisch stiller Gesellschafter, Restlaufzeit 1 bis 5 Jahre",Darlehen typisch stiller Gesellschafter (Gruppe),3524,,0,,Liability,EUR
+"Darlehen typisch stiller Gesellschafter, Restlaufzeit größer 5 Jahre",Darlehen typisch stiller Gesellschafter (Gruppe),3527,,0,,Liability,EUR
+davon aus Steuern,8 - sonstige Verbindlichkeiten,,,1,Payable,Liability,EUR
+Verbindlichkeiten aus Steuern und Abgaben,davon aus Steuern,3700,,0,Payable,Liability,EUR
+"Verbindlichkeiten aus Steuern und Abgaben, Restlaufzeit bis 1 Jahr",davon aus Steuern,3701,,0,,Liability,EUR
+"Verbindlichkeiten aus Steuern und Abgaben, Restlaufzeit 1 bis 5 Jahre",davon aus Steuern,3710,,0,,Liability,EUR
+"Verbindlichkeiten aus Steuern und Abgaben, Restlaufzeit größer 5 Jahre",davon aus Steuern,3715,,0,,Liability,EUR
+Verbindlichkeiten aus Lohn- und Kirchensteuer,davon aus Steuern,3730,,0,,Liability,EUR
+Verbindlichkeiten aus Einbehaltungen (KapESt und Solz auf KapESt)füroffene Ausschüttungen,davon aus Steuern,3760,,0,,Liability,EUR
+Verbindlichkeiten für Verbrauchsteuern,davon aus Steuern,3761,,0,,Liability,EUR
+davon im Rahmen der sozialen Sicherheit,8 - sonstige Verbindlichkeiten,,,1,Payable,Liability,EUR
+Verbindlichkeiten im Rahmen der sozialen Sicherheit,davon im Rahmen der sozialen Sicherheit,3740,,0,,Liability,EUR
+"Verbindlichkeiten im Rahmen der sozialen Sicherheit, Restlaufzeit bis 1 Jahr",davon im Rahmen der sozialen Sicherheit,3741,,0,,Liability,EUR
+"Verbindlichkeiten im Rahmen der sozialen Sicherheit, Restlaufzeit 1 bis 5 Jahre",davon im Rahmen der sozialen Sicherheit,3750,,0,,Liability,EUR
+"Verbindlichkeiten im Rahmen der sozialen Sicherheit, Restlaufzeit größer 5 Jahre",davon im Rahmen der sozialen Sicherheit,3755,,0,,Liability,EUR
+Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern,davon im Rahmen der sozialen Sicherheit,3759,,0,,Liability,EUR
+Erhaltene Kautionen (Gruppe),8 - sonstige Verbindlichkeiten,,,1,,Liability,EUR
+Erhaltene Kautionen,Erhaltene Kautionen (Gruppe),3550,,0,,Liability,EUR
+"Erhaltene Kautionen, Restlaufzeit bis 1 Jahr",Erhaltene Kautionen (Gruppe),3551,,0,,Liability,EUR
+"Erhaltene Kautionen, Restlaufzeit 1 bis 5 Jahre",Erhaltene Kautionen (Gruppe),3554,,0,,Liability,EUR
+"Erhaltene Kautionen, Restlaufzeit größer 5 Jahre",Erhaltene Kautionen (Gruppe),3557,,0,,Liability,EUR
+Partiarische Darlehen (Gruppe),8 - sonstige Verbindlichkeiten,,,1,,Liability,EUR
+Partiarische Darlehen,Partiarische Darlehen (Gruppe),3540,,0,,Liability,EUR
+"Partiarische Darlehen, Restlaufzeit bis 1 Jahr",Partiarische Darlehen (Gruppe),3541,,0,,Liability,EUR
+"Partiarische Darlehen, Restlaufzeit 1 bis 5 Jahre",Partiarische Darlehen (Gruppe),3544,,0,,Liability,EUR
+"Partiarische Darlehen, Restlaufzeit größer 5 Jahre",Partiarische Darlehen (Gruppe),3547,,0,,Liability,EUR
+Umsatzsteuer (Gruppe),davon aus Steuern,,,1,Tax,Liability,EUR
+Umsatzsteuer,Umsatzsteuer (Gruppe),3800,,0,Tax,Liability,EUR
+Umsatzsteuer 7 %,Umsatzsteuer (Gruppe),3801,,0,Tax,Liability,EUR
+Umsatzsteuer aus innergem. Erwerb,Umsatzsteuer (Gruppe),3802,,0,,Liability,EUR
+Umsatzsteuer aus innergem. Erwerb 19 %,Umsatzsteuer (Gruppe),3804,,0,Tax,Liability,EUR
+Umsatzsteuer 19 %,Umsatzsteuer (Gruppe),3806,,0,Tax,Liability,EUR
+Umsatzsteuer aus im Inland steuerpfl. EU-Lieferungen,Umsatzsteuer (Gruppe),3807,,0,,Liability,EUR
+Umsatzsteuer aus im Inland steuerpfl. EU-Lieferungen 19 %,Umsatzsteuer (Gruppe),3808,,0,,Liability,EUR
+Umsatzsteuer aus innergem. Erwerb ohne Vorsteuerabzug,Umsatzsteuer (Gruppe),3809,,0,,Liability,EUR
+Umsatzsteuer-Vorauszahlungen,Umsatzsteuer (Gruppe),3820,,0,Tax,Liability,EUR
+Umsatzsteuer-Vorauszahlung 1/11,Umsatzsteuer (Gruppe),3830,,0,,Liability,EUR
+"Nachsteuer, UStVA Kz. 65",Umsatzsteuer (Gruppe),3832,,0,,Liability,EUR
+Umsatzsteuer aus innergem. Erwerb von Neufahrzeugen von Lieferanten ohne Ust-ID,Umsatzsteuer (Gruppe),3834,,0,,Liability,EUR
+Umsatzsteuer nach § 13b UStG,Umsatzsteuer (Gruppe),3835,,0,,Liability,EUR
+Umsatzsteuer nach § 13b UStG 19 %,Umsatzsteuer (Gruppe),3837,,0,,Liability,EUR
+Umsatzsteuer aus der Auslagerung von Gegenständen aus einem Umsatzsteuerlager,Umsatzsteuer (Gruppe),3839,,0,,Liability,EUR
+Steuerzahlungen an andere Länder,Umsatzsteuer (Gruppe),3854,,0,,Liability,EUR
+Umsatzsteuer nicht fällig (Gruppe),Umsatzsteuer (Gruppe),,,1,,Liability,EUR
+Umsatzsteuer nicht fällig,Umsatzsteuer nicht fällig (Gruppe),3810,,0,,Liability,EUR
+Umsatzsteuer nicht fällig 7 %,Umsatzsteuer nicht fällig (Gruppe),3811,,0,,Liability,EUR
+Umsatzsteuer nicht fällig aus im Inland steuerpfl. EU-Lieferungen,Umsatzsteuer nicht fällig (Gruppe),3812,,0,,Liability,EUR
+Umsatzsteuer nicht fällig aus im Inland steuerpfl. EU-Lieferungen 19 %,Umsatzsteuer nicht fällig (Gruppe),3814,,0,,Liability,EUR
+Umsatzsteuer nicht fällig 19 %,Umsatzsteuer nicht fällig (Gruppe),3816,,0,,Liability,EUR
+Umsatzsteuer aus im anderen EU-Land steuerpfl. Lieferungen,Umsatzsteuer nicht fällig (Gruppe),3817,,0,,Liability,EUR
+Umsatzsteuer aus im anderen EU-Land steuerpfl. sonstigen Leistungen/Werklieferungen,Umsatzsteuer nicht fällig (Gruppe),3818,,0,,Liability,EUR
+Umsatzsteuer aus Erwerb als letzter Abnehmer innerh. eines Dreiecksgesch.s,Umsatzsteuer nicht fällig (Gruppe),3819,,0,,Liability,EUR
+Verbindlichkeiten aus Lohn und Gehalt (Gruppe),8 - sonstige Verbindlichkeiten,,,1,,Liability,EUR
+Verbindlichkeiten aus Lohn und Gehalt,Verbindlichkeiten aus Lohn und Gehalt (Gruppe),3720,,0,,Liability,EUR
+VerbindlichkeitenfürEinbehaltungen von Arbeitnehmern,Verbindlichkeiten aus Lohn und Gehalt (Gruppe),3725,,0,,Liability,EUR
+Verbindlichkeiten an das Finanzamt aus abzuführendem Bauabzugsbetrag,Verbindlichkeiten aus Lohn und Gehalt (Gruppe),3726,,0,,Liability,EUR
+D - Rechnungsabgrenzungsposten,,,,1,,Liability,EUR
+Passive Rechnungsabgrenzung,D - Rechnungsabgrenzungsposten,3900,,0,,Liability,EUR
+E - Passive latente Steuern,,,,1,,Liability,EUR
+Passive latente Steuern,E - Passive latente Steuern,3065,,0,,Liability,EUR
+A - Anlagevermögen,,,,1,,Asset,EUR
+I - Immaterielle Vermögensgegenstände,A - Anlagevermögen,,,1,,Asset,EUR
+1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,I - Immaterielle Vermögensgegenstände,,,1,,Asset,EUR
+Selbst geschaffene immaterielle Vermögensgegenstände,1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,0143,,0,,Asset,EUR
+Lizenzen und Franchiseverträge,1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,0145,,0,,Asset,EUR
+Konzessionen und gewerbliche Schutzrechte,1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,0146,,0,,Asset,EUR
+"Rezepte, Verfahren, Prototypen",1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,0147,,0,,Asset,EUR
+Immaterielle Vermögensgegenstände in Entwicklung,1 - Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte,0148,,0,,Asset,EUR
+"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",I - Immaterielle Vermögensgegenstände,,,1,,Asset,EUR
+"Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen","2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0100,,0,,Asset,EUR
+Konzessionen ,"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0110,,0,,Asset,EUR
+Gewerbliche Schutzrechte ,"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0120,,0,,Asset,EUR
+Ähnliche Rechte und Werte,"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0130,,0,,Asset,EUR
+EDV-Software,"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0135,,0,,Asset,EUR
+Lizenzen an gewerblichen Schutzrechten und ähnliche Rechten und Werten,"2 - entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen",0140,,0,,Asset,EUR
+3 - Geschäfts- oder Firmenwert,I - Immaterielle Vermögensgegenstände,,,1,,Asset,EUR
+Geschäfts- oder Firmenwert ,3 - Geschäfts- oder Firmenwert,0150,,0,,Asset,EUR
+4 - geleistete Anzahlungen,I - Immaterielle Vermögensgegenstände,,,1,,Asset,EUR
+Geleistete Anzahlungen auf immaterielle Vermögensgegenstände,4 - geleistete Anzahlungen,0170,,0,,Asset,EUR
+Anzahlungen auf Geschäfts- oder Firmenwert,4 - geleistete Anzahlungen,0179,,0,,Asset,EUR
+II - Sachanlagen,A - Anlagevermögen,,,1,,Asset,EUR
+"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",II - Sachanlagen,,,1,,Asset,EUR
+"Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken","1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0200,,0,,Asset,EUR
+Grundstücksgleiche Rechte ohne Bauten,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0210,,0,,Asset,EUR
+Unbebaute Grundstücke,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0215,,0,,Asset,EUR
+"Grundstücksgleiche Rechte (Erbbaurecht, Dauerwohnrecht)","1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0220,,0,,Asset,EUR
+Grundstücke mit Substanzverzehr,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0225,,0,,Asset,EUR
+Grundstücksanteil häusliches Arbeitszimmer,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0229,,0,,Asset,EUR
+Bauten auf eigenen Grundstücken und grundstücksgleichen Rechten,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0230,,0,,Asset,EUR
+Grundstückswerte eigener bebauter Grundstücke,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0235,,0,,Asset,EUR
+Geschäftsbauten,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0240,,0,,Asset,EUR
+Fabrikbauten ,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0250,,0,,Asset,EUR
+Andere Bauten,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0260,,0,,Asset,EUR
+Garagen,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0270,,0,,Asset,EUR
+"Außenanlagen für Geschäfts-, Fabrik- und andere Bauten","1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0280,,0,,Asset,EUR
+Hof- und Wegebefestigungen,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0285,,0,,Asset,EUR
+"Einrichtungen für Geschäfts-, Fabrik- und andere Bauten","1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0290,,0,,Asset,EUR
+Wohnbauten ,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0300,,0,,Asset,EUR
+Außenanlagen ,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0310,,0,,Asset,EUR
+Einrichtungen für Wohnbauten ,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0320,,0,,Asset,EUR
+Gebäudeanteil häusliches Arbeitszimmer,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0329,,0,,Asset,EUR
+Bauten auf fremden Grundstücken,"1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0330,,0,,Asset,EUR
+"Einrichtungen für Geschäfts-, Fabrik-, Wohn- und andere Bauten","1 - Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",0398,,0,,Asset,EUR
+2 - technische Anlagen und Maschinen,II - Sachanlagen,,,1,,Asset,EUR
+Technische Anlagen und Maschinen,2 - technische Anlagen und Maschinen,0400,,0,,Asset,EUR
+Technische Anlagen,2 - technische Anlagen und Maschinen,0420,,0,,Asset,EUR
+Maschinen,2 - technische Anlagen und Maschinen,0440,,0,,Asset,EUR
+Transportanlagen und Ähnliches ,2 - technische Anlagen und Maschinen,0450,,0,,Asset,EUR
+Betriebsvorrichtungen,2 - technische Anlagen und Maschinen,0470,,0,,Asset,EUR
+"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",II - Sachanlagen,,,1,,Asset,EUR
+"Andere Anlagen, Betriebs- und Geschäftsausstattung","3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0500,,0,,Asset,EUR
+Andere Anlagen,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0510,,0,,Asset,EUR
+Pkw,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0520,,0,,Asset,EUR
+Lkw,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0540,,0,,Asset,EUR
+Sonstige Transportmittel,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0560,,0,,Asset,EUR
+Werkzeuge,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0620,,0,,Asset,EUR
+Betriebsausstattung,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0630,,0,,Asset,EUR
+Geschäftsausstattung,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0635,,0,,Asset,EUR
+Ladeneinrichtung,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0640,,0,,Asset,EUR
+Büroeinrichtung,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0650,,0,,Asset,EUR
+Gerüst- und Schalungsmaterial,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0660,,0,,Asset,EUR
+Geringwertige Wirtschaftsgüter,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0670,,0,,Asset,EUR
+Wirtschaftsgüter größer 150  bis 1000 Euro (Sammelposten),"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0675,,0,,Asset,EUR
+Einbauten in fremde Grundstücke,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0680,,0,,Asset,EUR
+Sonstige Betriebs- und Geschäftsausstattung,"3 - andere Anlagen, Betriebs- und Geschäftsausstattung",0690,,0,,Asset,EUR
+4 - geleistete Anzahlungen und Anlagen im Bau,II - Sachanlagen,,,1,,Asset,EUR
+Geleistete Anzahlungen und Anlagen im Bau,4 - geleistete Anzahlungen und Anlagen im Bau,0700,,0,,Asset,EUR
+Anzahlungen auf Grund und Boden,4 - geleistete Anzahlungen und Anlagen im Bau,0705,,0,,Asset,EUR
+"Geschäfts-, Fabrik- und andere Bauten im Bau auf eigenen Grundstücken",4 - geleistete Anzahlungen und Anlagen im Bau,0710,,0,,Asset,EUR
+"Anzahlungen auf Geschäfts-, Fabrik- und andere Bauten auf eigenen Grundstücken",4 - geleistete Anzahlungen und Anlagen im Bau,0720,,0,,Asset,EUR
+Wohnbauten im Bau auf eigenen Grundstücken,4 - geleistete Anzahlungen und Anlagen im Bau,0725,,0,,Asset,EUR
+Anzahlungen auf Wohnbauten auf eigenen Grundstücken,4 - geleistete Anzahlungen und Anlagen im Bau,0735,,0,,Asset,EUR
+"Geschäfts-, Fabrik- und andere Bauten im Bau auf fremden Grundstücken",4 - geleistete Anzahlungen und Anlagen im Bau,0740,,0,,Asset,EUR
+"Anzahlungen auf Geschäfts-, Fabrik- und andere Bauten auf fremden Grundstücken ",4 - geleistete Anzahlungen und Anlagen im Bau,0750,,0,,Asset,EUR
+Anzahlungen auf Wohnbauten auf fremden Grundstücken,4 - geleistete Anzahlungen und Anlagen im Bau,0765,,0,,Asset,EUR
+Technische Anlagen und Maschinen im Bau,4 - geleistete Anzahlungen und Anlagen im Bau,0770,,0,,Asset,EUR
+Anzahlungen auf technische Anlagen und Maschinen,4 - geleistete Anzahlungen und Anlagen im Bau,0780,,0,,Asset,EUR
+"Andere Anlagen, Betriebs- und Geschäftsausstattung im Bau",4 - geleistete Anzahlungen und Anlagen im Bau,0785,,0,,Asset,EUR
+"Anzahlungen auf andere Anlagen, Betriebs- und Geschäftsausstattung",4 - geleistete Anzahlungen und Anlagen im Bau,0795,,0,,Asset,EUR
+III - Finanzanlagen,A - Anlagevermögen,,,1,,Asset,EUR
+1 - Anteile an verbundenen Unternehmen,III - Finanzanlagen,,,1,,Asset,EUR
+Anteile an verbundenen Unternehmen,1 - Anteile an verbundenen Unternehmen,0800,,0,,Asset,EUR
+"Anteile an verbundenen Unternehmen, Personengesellschaften",1 - Anteile an verbundenen Unternehmen,0803,,0,,Asset,EUR
+"Anteile an verbundenen Unternehmen, Kapitalgesellschaften",1 - Anteile an verbundenen Unternehmen,0804,,0,,Asset,EUR
+"Anteile an herrschender oder mehrheitlich beteiligter Gesellschaft, Personengesellschaft",1 - Anteile an verbundenen Unternehmen,0805,,0,,Asset,EUR
+"Anteile an herrschender oder mehrheitlich beteiligter Gesellschaft, Kapitalgesellschaften",1 - Anteile an verbundenen Unternehmen,0808,,0,,Asset,EUR
+Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft,1 - Anteile an verbundenen Unternehmen,0809,,0,,Asset,EUR
+2 - Ausleihungen an verbundene Unternehmen,III - Finanzanlagen,,,1,,Asset,EUR
+Ausleihungen an verbundene Unternehmen,2 - Ausleihungen an verbundene Unternehmen,0810,,0,,Asset,EUR
+3 - Beteiligungen,III - Finanzanlagen,,,1,,Asset,EUR
+Beteiligungen,3 - Beteiligungen,0820,,0,,Asset,EUR
+Typisch stille Beteiligungen,3 - Beteiligungen,0830,,0,,Asset,EUR
+Atypisch stille Beteiligungen,3 - Beteiligungen,0840,,0,,Asset,EUR
+Beteiligungen an Kapitalgesellschaften,3 - Beteiligungen,0850,,0,,Asset,EUR
+Beteiligungen an Personengesellschaften,3 - Beteiligungen,0860,,0,,Asset,EUR
+"4 - Ausleihungen an Unternehmen, mit denen ein Beteilungsverhältnis besteht",III - Finanzanlagen,,,1,,Asset,EUR
+Ausleihungen an verbundene Unternehmen,2 - Ausleihungen an verbundene Unternehmen,0880,,0,,Asset,EUR
+"Ausleihungen an Unternehmen, mit denen ein Beteilungsverhältnis besteht, Personengesellschaften",2 - Ausleihungen an verbundene Unternehmen,0883,,0,,Asset,EUR
+"Ausleihungen an Unternehmen, mit denen ein Beteilungsverhältnis besteht, Kapitalgesellschaften",2 - Ausleihungen an verbundene Unternehmen,0885,,0,,Asset,EUR
+5 - Wertpapiere des Anlagevermögens,III - Finanzanlagen,,,1,,Asset,EUR
+Wertpapiere des Anlagevermögens,5 - Wertpapiere des Anlagevermögens,0900,,0,,Asset,EUR
+"Wertpapiere mit Gewinnbeteiligungsansprüchen, die dem Teileinkünfteverfahren unterliegen",5 - Wertpapiere des Anlagevermögens,0910,,0,,Asset,EUR
+Festverzinsliche Wertpapiere,5 - Wertpapiere des Anlagevermögens,0920,,0,,Asset,EUR
+Genossenschaftsanteile (Gruppe),5 - Wertpapiere des Anlagevermögens,,,1,,Asset,EUR
+Genossenschaftsanteile zum langfristigen Verbleib,Genossenschaftsanteile (Gruppe),0980,,0,,Asset,EUR
+Rückdeckungsansprüche aus Lebensversicherungen (Gruppe),5 - Wertpapiere des Anlagevermögens,,,1,,Asset,EUR
+Rückdeckungsansprüche aus Lebensversicherungen zum langfristigen Verbleib,Rückdeckungsansprüche aus Lebensversicherungen (Gruppe),0990,,0,,Asset,EUR
+6 - sonstige Ausleihungen,III - Finanzanlagen,,,1,,Asset,EUR
+Übrige sonstige Ausleihungen,6 - sonstige Ausleihungen,0930,,0,,Asset,EUR
+Darlehen,6 - sonstige Ausleihungen,0940,,0,,Asset,EUR
+B - Umlaufvermögen,,,,1,,Asset,EUR
+I - Vorräte,B - Umlaufvermögen,,,1,,Asset,EUR
+"1 - Roh-, Hilfs- und Betriebsstoffe",I - Vorräte,,,1,,Asset,EUR
+"Roh-, Hilfs- und Betriebsstoffe (Bestand)","1 - Roh-, Hilfs- und Betriebsstoffe",1000,,0,,Asset,EUR
+"2 - unfertige Erzeugnisse, unfertige Leistungen",I - Vorräte,,,1,,Asset,EUR
+"Unfertige Erzeugnisse, unfertige Leistungen (Bestand)","2 - unfertige Erzeugnisse, unfertige Leistungen",1040,,0,,Asset,EUR
+Unfertige Erzeugnisse (Bestand),"2 - unfertige Erzeugnisse, unfertige Leistungen",1050,,0,,Asset,EUR
+Unfertige Leistungen,"2 - unfertige Erzeugnisse, unfertige Leistungen",1080,,0,,Asset,EUR
+In Ausführung befindliche Bauaufträge,"2 - unfertige Erzeugnisse, unfertige Leistungen",1090,,0,,Asset,EUR
+In Arbeit befindliche Aufträge,"2 - unfertige Erzeugnisse, unfertige Leistungen",1095,,0,,Asset,EUR
+3 - fertige Erzeugnisse und Waren,I - Vorräte,,,1,,Asset,EUR
+Fertige Erzeugnisse und Waren (Bestand),3 - fertige Erzeugnisse und Waren,1100,,0,,Asset,EUR
+Fertige Erzeugnisse (Bestand),3 - fertige Erzeugnisse und Waren,1110,,0,,Asset,EUR
+Waren (Bestand),3 - fertige Erzeugnisse und Waren,1140,,0,,Asset,EUR
+Erhaltene Anzahlungen auf Bestellungen (von Vorräten offen abgesetzt) (Gruppe),I - Vorräte,,,1,,Asset,EUR
+Erhaltene Anzahlungen auf Bestellungen (von Vorräten offen abgesetzt),Erhaltene Anzahlungen auf Bestellungen (von Vorräten offen abgesetzt) (Gruppe),1190,,0,,Asset,EUR
+4 - geleistete Anzahlungen,I - Vorräte,,,1,,Asset,EUR
+Geleistete Anzahlungen 7 % Vorsteuer,4 - geleistete Anzahlungen,1181,,0,,Asset,EUR
+Geleistete Anzahlungen 16 % Vorsteuer,4 - geleistete Anzahlungen,1184,,0,,Asset,EUR
+Geleistete Anzahlungen 19 % Vorsteuer,4 - geleistete Anzahlungen,1186,,0,,Asset,EUR
+II - Forderungen und sonstige Vermögensgegenstände,B - Umlaufvermögen,,,1,,Asset,EUR
+1 - Forderungen aus Lieferungen und Leistungen,II - Forderungen und sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen,1 - Forderungen aus Lieferungen und Leistungen,1200,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen ohne Kontokorrent,1 - Forderungen aus Lieferungen und Leistungen,1210,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen ohne Kontokorrent(bis 1 Jahr),1 - Forderungen aus Lieferungen und Leistungen,1221,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen ohne Kontokorrent (größer 1 Jahr),1 - Forderungen aus Lieferungen und Leistungen,1225,,0,,Asset,EUR
+Gegenkonto zu sonstigen Vermögensgegenständen bei Buchung über Debitorenkonto,1 - Forderungen aus Lieferungen und Leistungen,1258,,0,,Asset,EUR
+"Gegenkonto 1221-1229,1240-1245,1250-1257, 1270-1279, 1290-1297 bei Aufteilung Debitorenkonto",1 - Forderungen aus Lieferungen und Leistungen,1259,,0,,Asset,EUR
+Bewertungskorrektur zu Forderungen aus Lieferungen und Leistungen,1 - Forderungen aus Lieferungen und Leistungen,9960,,0,,Asset,EUR
+Zweifelhafte Forderungen (Gruppe),1 - Forderungen aus Lieferungen und Leistungen,,,1,,Asset,EUR
+Zweifelhafte Forderungen,Zweifelhafte Forderungen (Gruppe),1240,,0,,Asset,EUR
+Zweifelhafte Forderungen (bis 1 Jahr),Zweifelhafte Forderungen (Gruppe),1241,,0,,Asset,EUR
+Zweifelhafte Forderungen (größer 1 Jahr),Zweifelhafte Forderungen (Gruppe),1245,,0,,Asset,EUR
+Einzelwertberichtigung auf Forderungen mit einer Restlaufzeit (mehr als 1 Jahr),1 - Forderungen aus Lieferungen und Leistungen,1247,,0,,Asset,EUR
+Einzelwertberichtigungen auf Forderungen mit einer Restlaufzeit (bis 1 Jahr),1 - Forderungen aus Lieferungen und Leistungen,1248,,0,,Asset,EUR
+Pauschalwertberichtigung auf Forderungen mit einer Restlaufzeit (mehr als 1 Jahr),1 - Forderungen aus Lieferungen und Leistungen,1249,,0,,Asset,EUR
+2 - Forderungen gegen verbundene Unternehmen,II - Forderungen und sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Forderungen gegen verbundene Unternehmen,2 - Forderungen gegen verbundene Unternehmen,1260,,0,,Asset,EUR
+Forderungen gegen verbundene Unternehmen (bis 1 Jahr),2 - Forderungen gegen verbundene Unternehmen,1261,,0,,Asset,EUR
+Forderungen gegen verbundene Unternehmen (größer 1 Jahr),2 - Forderungen gegen verbundene Unternehmen,1265,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen,2 - Forderungen gegen verbundene Unternehmen,1270,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen (bis 1 Jahr),2 - Forderungen gegen verbundene Unternehmen,1271,,0,,Asset,EUR
+Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen (größer 1 Jahr),2 - Forderungen gegen verbundene Unternehmen,1275,,0,,Asset,EUR
+Wertberichtigungen auf Forderungen mit einer Restlaufzeit (bis 1 Jahr) gegen verbundene Unternehmen,2 - Forderungen gegen verbundene Unternehmen,1276,,0,,Asset,EUR
+Wertberichtigungen auf Forderungen mit einer Restlaufzeit (mehr als 1 Jahr) gegen verbundene Unternehmen,2 - Forderungen gegen verbundene Unternehmen,1277,,0,,Asset,EUR
+"3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",II - Forderungen und sonstige Vermögensgegenstände,,,1,,Asset,EUR
+"Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1280,,0,,Asset,EUR
+"Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht, Restlaufzeit (bis 1 Jahr)","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1281,,0,,Asset,EUR
+"Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht, Restlaufzeit (größer 1 Jahr)","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1285,,0,,Asset,EUR
+"Forderungen aus Lieferungen und Leistungen gegenüber Unternehmen, mit denen ein Beteilungsverhältnis besteht","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1290,,0,,Asset,EUR
+"Forderungen aus Lieferungen und Leistungen ggü. Unternehmen, mit bestehendem Beteilungsverhältnis, Restlaufzeit (bis 1 J.)","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1291,,0,,Asset,EUR
+"Forderungen aus Lieferungen und Leistungen ggü. Unternehmen, mit bestehendem Beteilungsverhältnis, Restlaufzeit (größer 1 J.)","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1295,,0,,Asset,EUR
+"Wertberichtigungen auf Forderungen (bis 1 Jahr) gegenüber Unternehmen, mit denen ein Beteilungsverhältnis besteht","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1296,,0,,Asset,EUR
+"Wertberichtigungen auf Forderungen (mehr als 1 Jahr) gegenüber Unternehmen, mit denen ein Beteilungsverhältnis besteht","3 - Forderungen gegen Unternehmen, mit denen ein Beteilungsverhältnis besteht",1297,,0,,Asset,EUR
+4 - sonstige Vermögensgegenstände,II - Forderungen und sonstige Vermögensgegenstände,,,1,,Asset,EUR
+"Eingeforderte, noch ausstehende Kapitaleinlagen",4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+"Ausstehende Einlagen auf das gezeichnete Kapital, eingefordert","Eingeforderte, noch ausstehende Kapitaleinlagen",1298,,0,,Asset,EUR
+Sonstige Vermögensgegenstände,4 - sonstige Vermögensgegenstände,1300,,0,,Asset,EUR
+"Sonstige Vermögensgegenstände, Restlaufzeit (bis 1 Jahr)",4 - sonstige Vermögensgegenstände,1301,,0,,Asset,EUR
+"Sonstige Vermögensgegenstände, Restlaufzeit (größer 1 Jahr)",4 - sonstige Vermögensgegenstände,1305,,0,,Asset,EUR
+Forderungen gegen typisch stille Gesellschafter,4 - sonstige Vermögensgegenstände,1337,,0,,Asset,EUR
+Forderungen gegen typisch stille Gesellschafter - Restlaufzeit bis1 Jahr,4 - sonstige Vermögensgegenstände,1338,,0,,Asset,EUR
+"Forderungen gegen typisch stille Gesellschafter, Restlaufzeit (größer 1 Jahr)",4 - sonstige Vermögensgegenstände,1339,,0,,Asset,EUR
+Forderungen gegenüber Krankenkassen aus Aufwendungsausgleichsgesetz,4 - sonstige Vermögensgegenstände,1369,,0,,Asset,EUR
+Durchlaufende Posten,4 - sonstige Vermögensgegenstände,1370,,0,,Asset,EUR
+Fremdgeld,4 - sonstige Vermögensgegenstände,1374,,0,,Asset,EUR
+Agenturwarenabrechnung,4 - sonstige Vermögensgegenstände,1375,,0,,Asset,EUR
+"Nachträglich abziehbare Vorsteuer, § 15a Abs. 2 UStG",4 - sonstige Vermögensgegenstände,1376,,0,,Asset,EUR
+"Zurückzuzahlende Vorsteuer, § 15a Abs. 2 UStG",4 - sonstige Vermögensgegenstände,1377,,0,,Asset,EUR
+Ansprüche aus Rückdeckungsversicherungen,4 - sonstige Vermögensgegenstände,1378,,0,,Asset,EUR
+GmbH-Anteile zum kurzfristigen Verbleib,4 - sonstige Vermögensgegenstände,1390,,0,,Asset,EUR
+Forderungen gegen Arbeitsgemeinschaften,4 - sonstige Vermögensgegenstände,1391,,0,,Asset,EUR
+Genussrechte,4 - sonstige Vermögensgegenstände,1393,,0,,Asset,EUR
+Einzahlungsansprüche zu Nebenleistungen oder Zuzahlungen,4 - sonstige Vermögensgegenstände,1394,,0,,Asset,EUR
+Genossenschaftsanteile zum kurzfristigen Verbleib,4 - sonstige Vermögensgegenstände,1395,,0,,Asset,EUR
+"Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter",4 - sonstige Vermögensgegenstände,1396,,0,,Asset,EUR
+"Zurückzuzahlende Vorsteuer, § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter",4 - sonstige Vermögensgegenstände,1397,,0,,Asset,EUR
+"Nachträglich abziehbare Vorsteuer gem. § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter",4 - sonstige Vermögensgegenstände,1398,,0,,Asset,EUR
+"Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter",4 - sonstige Vermögensgegenstände,1399,,0,,Asset,EUR
+Entstandene Einfuhrumsatzsteuer,4 - sonstige Vermögensgegenstände,1433,,0,,Asset,EUR
+Vorsteuer im Folgejahr abziehbar,4 - sonstige Vermögensgegenstände,1434,,0,,Asset,EUR
+Forderungen aus Gewerbesteuerüberzahlungen,4 - sonstige Vermögensgegenstände,1435,,0,,Asset,EUR
+Vorsteuer aus Erwerb als letzter Abnehmer innerhalb eines Dreiecksgeschäfts,4 - sonstige Vermögensgegenstände,1436,,0,,Asset,EUR
+Steuererstattungsansprüche gegenüber anderen Ländern,4 - sonstige Vermögensgegenstände,1440,,0,,Asset,EUR
+Forderungen an das Finanzamt aus abgeführtem Bauabzugsbetrag,4 - sonstige Vermögensgegenstände,1456,,0,,Asset,EUR
+Forderungen gegenüber Bundesagentur für Arbeit,4 - sonstige Vermögensgegenstände,1457,,0,,Asset,EUR
+Geldtransit,4 - sonstige Vermögensgegenstände,1460,,0,,Asset,EUR
+Verrechnungskonto Ist-Versteuerung,4 - sonstige Vermögensgegenstände,1490,,0,,Asset,EUR
+Verrechnungskonto erhaltene Anzahlungen bei Buchung über Debitorenkonto,4 - sonstige Vermögensgegenstände,1495,,0,,Asset,EUR
+Überleitungskonto Kostenstellen,4 - sonstige Vermögensgegenstände,1498,,0,,Asset,EUR
+Verrechnungskonto geleistete Anzahlungen bei Buchung über Kreditorenkonto,4 - sonstige Vermögensgegenstände,3695,,0,,Asset,EUR
+Bewertungskorrektur zu sonstigen Vermögensgegenständen (Währungsumrechnung),4 - sonstige Vermögensgegenstände,9965,,0,,Asset,EUR
+Abziehbare Vorsteuer (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Abziehbare Vorsteuer,Abziehbare Vorsteuer (Gruppe),1400,,0,,Asset,EUR
+Abziehbare Vorsteuer 7 %,Abziehbare Vorsteuer (Gruppe),1401,,0,,Asset,EUR
+Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb,Abziehbare Vorsteuer (Gruppe),1402,,0,,Asset,EUR
+Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19%,Abziehbare Vorsteuer (Gruppe),1404,,0,,Asset,EUR
+Abziehbare Vorsteuer 19 %,Abziehbare Vorsteuer (Gruppe),1406,,0,,Asset,EUR
+Abziehbare Vorsteuer nach § 13b UStG 19 %,Abziehbare Vorsteuer (Gruppe),1407,,0,,Asset,EUR
+Abziehbare Vorsteuer nach § 13b UStG,Abziehbare Vorsteuer (Gruppe),1408,,0,,Asset,EUR
+Abziehbare Vorsteuer aus der Auslagerung von Gegenständen aus dem Umsatzsteuerlager,Abziehbare Vorsteuer (Gruppe),1431,,0,,Asset,EUR
+Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb von Neufahrzeugen von Lieferanten ohne Ust-ID,Abziehbare Vorsteuer (Gruppe),1432,,0,,Asset,EUR
+Aufzuteilende Vorsteuer (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Aufzuteilende Vorsteuer,Aufzuteilende Vorsteuer (Gruppe),1410,,0,,Asset,EUR
+Aufzuteilende Vorsteuer 7 %,Aufzuteilende Vorsteuer (Gruppe),1411,,0,,Asset,EUR
+Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb,Aufzuteilende Vorsteuer (Gruppe),1412,,0,,Asset,EUR
+Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,Aufzuteilende Vorsteuer (Gruppe),1413,,0,,Asset,EUR
+Aufzuteilende Vorsteuer 19 %,Aufzuteilende Vorsteuer (Gruppe),1416,,0,,Asset,EUR
+Aufzuteilende Vorsteuer nach §§ 13a/13b UStG,Aufzuteilende Vorsteuer (Gruppe),1417,,0,,Asset,EUR
+Aufzuteilende Vorsteuer nach §§ 13a/13b UStG 19 %,Aufzuteilende Vorsteuer (Gruppe),1419,,0,,Asset,EUR
+Darlehen (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Darlehen,Darlehen (Gruppe),1360,,0,,Asset,EUR
+"Darlehen, Restlaufzeit (bis 1 Jahr)",Darlehen (Gruppe),1361,,0,,Asset,EUR
+"Darlehen, Restlaufzeit (größer 1 Jahr)",Darlehen (Gruppe),1365,,0,,Asset,EUR
+Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung,Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung (Gruppe),1340,,0,,Asset,EUR
+"Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung, Restlaufzeit (bis 1 Jahr)",Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung (Gruppe),1341,,0,,Asset,EUR
+"Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung, Restlaufzeit (größer 1 Jahr)",Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung (Gruppe),1345,,0,,Asset,EUR
+Kautionen (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Kautionen,Kautionen (Gruppe),1350,,0,,Asset,EUR
+"Kautionen, Restlaufzeit (bis 1 Jahr)",Kautionen (Gruppe),1351,,0,,Asset,EUR
+"Kautionen, Restlaufzeit (größer 1 Jahr)",Kautionen (Gruppe),1355,,0,,Asset,EUR
+Umsatzsteuerforderungen (Gruppe),4 - sonstige Vermögensgegenstände,,,1,,Asset,EUR
+Forderungen aus Umsatzsteuervorauszahlungen,Umsatzsteuerforderungen (Gruppe),1420,,0,,Asset,EUR
+Umsatzsteuerforderungen Vorjahr,Umsatzsteuerforderungen (Gruppe),1422,,0,,Asset,EUR
+Umsatzsteuerforderungen frühere Jahre,Umsatzsteuerforderungen (Gruppe),1425,,0,,Asset,EUR
+Forderungen aus entrichteten Verbrauchsteuern,Umsatzsteuerforderungen (Gruppe),1427,,0,,Asset,EUR
+III - Wertpapiere,B - Umlaufvermögen,,,1,,Asset,EUR
+1 - Anteile an verbundenen Unternehmen,III - Wertpapiere,,,1,,Asset,EUR
+Anteile an verbundenen Unternehmen (Umlaufvermögen),1 - Anteile an verbundenen Unternehmen,1500,,0,,Asset,EUR
+2 - sonstige Wertpapiere,III - Wertpapiere,,,1,,Asset,EUR
+Sonstige Wertpapiere,2 - sonstige Wertpapiere,1510,,0,,Asset,EUR
+Andere Wertpapiere mit unwesentlichen Wertschwankungen,2 - sonstige Wertpapiere,1525,,0,,Asset,EUR
+Wertpapieranlagen im Rahmen der kurzfristigen Finanzdisposition,2 - sonstige Wertpapiere,1530,,0,,Asset,EUR
+"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",B - Umlaufvermögen,,,1,,Asset,EUR
+Schecks,"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",1550,,0,,Asset,EUR
+LZB-Guthaben,"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",1780,,0,,Asset,EUR
+Bundesbankguthaben,"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",1790,,0,,Asset,EUR
+Bewertungskorrektur zu Guthaben bei Kreditinstituten,"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",9962,,0,,Asset,EUR
+Bank (Gruppe),"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",,,1,,Asset,EUR
+Bank,Bank (Gruppe),1800,,0,,Asset,EUR
+Bank 1,Bank (Gruppe),1810,,0,,Asset,EUR
+Bank 2,Bank (Gruppe),1820,,0,,Asset,EUR
+Bank 3,Bank (Gruppe),1830,,0,,Asset,EUR
+Bank 4,Bank (Gruppe),1840,,0,,Asset,EUR
+Bank 5,Bank (Gruppe),1850,,0,,Asset,EUR
+Finanzmittelanlagen im Rahmen der kurzfristigen Finanzdisposition (nicht im Finanzmittelfonds enthalten),Bank (Gruppe),1890,,0,,Asset,EUR
+Kasse (Gruppe),"IV - Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",,,1,,Asset,EUR
+Kasse,Kasse (Gruppe),1600,,0,,Asset,EUR
+Nebenkasse 1,Kasse (Gruppe),1610,,0,,Asset,EUR
+Nebenkasse 2,Kasse (Gruppe),1620,,0,,Asset,EUR
+C - Rechnungsabgrenzungsposten,,,,1,,Asset,EUR
+Aktive Rechnungsabgrenzung,C - Rechnungsabgrenzungsposten,1900,,0,,Asset,EUR
+Damnum/Disagio,C - Rechnungsabgrenzungsposten,1940,,0,,Asset,EUR
+D - Aktive latente Steuern,,,,1,,Asset,EUR
+Aktive latente Steuern,D - Aktive latente Steuern,1950,,0,,Asset,EUR
+E - Aktiver Unterschiedsbetrag aus der Vermögensverrechnung,,,,1,,Asset,EUR
+Vermögensgegenstände zur Saldierung mit Pensionsrückstellungen und ähnliche Verpflichtungen zum langfristigen Verbleib,E - Aktiver Unterschiedsbetrag aus der Vermögensverrechnung,1381,,0,,Asset,EUR
+Vermögensgegenstände zur Saldierung mit der Altersversicherung vergleichbaren langfristigen Verpflichtungen,E - Aktiver Unterschiedsbetrag aus der Vermögensverrechnung,1383,,0,,Asset,EUR
