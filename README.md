@@ -1,6 +1,6 @@
 # GuV nach Umsatzkostenverfahren (HGB § 275) - ERPNext Version 16 App
 
-This repository contains the custom Frappe/ERPNext app `ukv_reporting` which implements the German vertical Profit and Loss Statement following the **Cost of Sales Method (Umsatzkostenverfahren)** as defined by **HGB § 275 Abs. 3**, based on the **SKR04** Chart of Accounts 2026 version (which is published and used by DATEV). Extensive care was taken to transfer the relevant Chart of Accounts positions from the DATEV document to frappe. You can find the `.csv` file fro import in `/SKR04_Blueprint_chart_of_accounts.csv`
+This repository contains the custom Frappe/ERPNext app `guv_ukv_hgb_report` which implements the German vertical Profit and Loss Statement following the **Cost of Sales Method (Umsatzkostenverfahren)** as defined by **HGB § 275 Abs. 3**, based on the **SKR04** Chart of Accounts 2026 version (which is published and used by DATEV). Extensive care was taken to transfer the relevant Chart of Accounts positions from the DATEV document to frappe. You can find the `.csv` file fro import in `/SKR04_Blueprint_chart_of_accounts.csv`
 
 The repository uses the code of frappes implementation of the proit_and_loss_statement.py. However, it is heavily modified to fit the financial needs of German HGB law.
 
@@ -14,7 +14,7 @@ The app is fully integrated with standard ERPNext and features:
 
 ## Legal Notice & Disclaimer
 
-This repository, including the `ukv_reporting` application and the `SKR04_Blueprint_chart_of_accounts.csv`, is provided under the **GNU General Public License v3.0 (GPLv3)**.
+This repository, including the `guv_ukv_hgb_report` application and the `SKR04_Blueprint_chart_of_accounts.csv`, is provided under the **GNU General Public License v3.0 (GPLv3)**.
 
 ### Important Notice
 

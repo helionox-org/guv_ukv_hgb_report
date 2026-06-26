@@ -1,5 +1,5 @@
 [project]
-name = "ukv_reporting"
+name = "guv_ukv_hgb_report"
 authors = [
     {name = "Helionox GmbH", email = "contact@helionox.eu"}
 ]

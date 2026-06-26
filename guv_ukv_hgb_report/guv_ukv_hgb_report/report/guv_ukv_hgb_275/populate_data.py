@@ -2,7 +2,7 @@ import frappe
 frappe.flags.in_test = True
 frappe.in_test = True
 
-from ukv_reporting.ukv_reporting.report.guv_ukv_hgb_275.tests import test_guv_ukv_hgb_275_data as test_data
+from guv_ukv_hgb_report.guv_ukv_hgb_report.report.guv_ukv_hgb_275.tests import test_guv_ukv_hgb_275_data as test_data
 
 def resolve_account_by_number(account_str, company):
 	parts = account_str.split(" - ", 1)
@@ -96,7 +96,7 @@ def populate():
 
 	# 3. Import SKR04 Blueprint Chart of Accounts
 	print("Importing SKR04 Chart of Accounts...")
-	csv_path = "/workspace/ukv_reporting/SKR04_Blueprint_chart_of_accounts.csv"
+	csv_path = "/workspace/guv_ukv_hgb_report/SKR04_Blueprint_chart_of_accounts.csv"
 	file_name = "/private/files/SKR04_Blueprint_chart_of_accounts.csv"
 	file_url = file_name
 	if not frappe.db.exists("File", {"file_url": file_name}):

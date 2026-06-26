@@ -1,15 +1,15 @@
 include LICENSE
 include README.md
-recursive-include ukv_reporting *.co
-recursive-include ukv_reporting *.css
-recursive-include ukv_reporting *.csv
-recursive-include ukv_reporting *.html
-recursive-include ukv_reporting *.ico
-recursive-include ukv_reporting *.js
-recursive-include ukv_reporting *.json
-recursive-include ukv_reporting *.md
-recursive-include ukv_reporting *.png
-recursive-include ukv_reporting *.py
-recursive-include ukv_reporting *.svg
-recursive-include ukv_reporting *.txt
-recursive-exclude ukv_reporting *.pyc
+recursive-include guv_ukv_hgb_report *.co
+recursive-include guv_ukv_hgb_report *.css
+recursive-include guv_ukv_hgb_report *.csv
+recursive-include guv_ukv_hgb_report *.html
+recursive-include guv_ukv_hgb_report *.ico
+recursive-include guv_ukv_hgb_report *.js
+recursive-include guv_ukv_hgb_report *.json
+recursive-include guv_ukv_hgb_report *.md
+recursive-include guv_ukv_hgb_report *.png
+recursive-include guv_ukv_hgb_report *.py
+recursive-include guv_ukv_hgb_report *.svg
+recursive-include guv_ukv_hgb_report *.txt
+recursive-exclude guv_ukv_hgb_report *.pyc
