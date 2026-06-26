@@ -1,5 +1,5 @@
-erpnext/
-frappe_docker/
-.venv/
 *.pyc
 __pycache__/
+*.egg-info/
+dist/
+build/
