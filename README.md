@@ -10,6 +10,35 @@ The app is fully integrated with standard ERPNext and features:
 2. **New Cost Centers**: Added the cost centers Herstellungskosten, Vertriebskosten, Verwaltungskosten, Sonstige betriebliche Aufwendungen (english: Manufacturing Costs, Sales Costs, Administration Costs, Other Business Expenses) which are required to map the positions from the chart of accounts into the correct positions of the profit and loss calculation. You have to assign the correct Cost Center to the Journal Entries bookings when doing your accounting. Additionally, the Cost Centers have a custom field now called `umsatzkostenverfahren_type` which needs to be provided for these specific cost centers.
 3. **Updated Chart of Accounts**: Transfered the 2026 chart of accounts to frappe
 
+## Installation
+
+You can add the app to your apps.json before building your container
+
+```json
+  ...
+  {
+    "url": "https://github.com/helionox-org/guv_ukv_hgb_report",
+    "branch": "main"
+  },
+  ...
+```
+
+Install by running (also when you have added it to your apps.json and after building)
+
+```bash
+docker exec -it your-backend-docker-container-name bench --site your.sitename.com install-app guv_ukv_hgb_report
+```
+
+You will most likely have to run migrations:
+
+```bash
+docker compose -p your-docker-project-name exec backend bench --site your.sitename.com clear-cache
+docker compose -p your-docker-project-name exec backend bench --site your.sitename.com migrate
+docker compose -p your-docker-project-name exec backend bench --site your.sitename.com clear-website-cache
+docker compose -p your-docker-project-name exec backend bench --site your.sitename.com migrate
+docker compose -p your-docker-project-name exec backend bench --site your.sitename.com enable-scheduler
+```
+
 ---
 
 ## Legal Notice & Disclaimer
